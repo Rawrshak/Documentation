@@ -4,12 +4,13 @@
 
 ## Rawrshak Platform
 
-* [What is the Rawrshak Platform?](rawrshak-platform/what-is-the-rawrshak-platform.md)
+* [🛠 What is the Rawrshak Platform?](rawrshak-platform/what-is-the-rawrshak-platform.md)
 * [🛠 Rawrshak Ecosystem](rawrshak-platform/rawrshak-ecosystem.md)
 * [🛠 Platform Overview](rawrshak-platform/platform-overview.md)
 * [Networks](rawrshak-platform/networks.md)
 * [Litepapers](rawrshak-platform/litepapers.md)
-* [Community Channels](rawrshak-platform/community-channels.md)
+* [Community Channels](rawrshak-platform/community-channels/README.md)
+  * [🛠 Partnerships & Integrations](rawrshak-platform/community-channels/partnerships-and-integrations.md)
 
 ## Gamers
 
