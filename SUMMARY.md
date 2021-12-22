@@ -5,7 +5,7 @@
 ## Rawrshak Platform
 
 * [What is the Rawrshak Platform?](rawrshak-platform/what-is-the-rawrshak-platform.md)
-* [🛠 Platform Overview](rawrshak-platform/platform-overview.md)
+* [Platform Overview](rawrshak-platform/platform-overview.md)
 * [🛠 Rawrshak Ecosystem](rawrshak-platform/rawrshak-ecosystem.md)
 * [Networks](rawrshak-platform/networks.md)
 * [Litepapers](rawrshak-platform/litepapers.md)
@@ -21,7 +21,7 @@
 
 ## Developers
 
-* [🛠 Smart Contracts](developers/smart-contracts/README.md)
+* [🛠 Smart Contracts](developers/smart-contracts.md)
   * [Content Contracts](developers/smart-contracts/content-contracts/README.md)
     * [Content](developers/smart-contracts/content-contracts/content.md)
     * [Content Manager](developers/smart-contracts/content-contracts/content-manager.md)

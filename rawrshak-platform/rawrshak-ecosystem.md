@@ -1,7 +1,5 @@
 # 🛠 Rawrshak Ecosystem
 
-// Todo:&#x20;
-
 ## Ecosystem Participants
 
 ### Gamers
