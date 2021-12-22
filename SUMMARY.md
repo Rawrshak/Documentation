@@ -6,7 +6,7 @@
 
 * [What is the Rawrshak Platform?](rawrshak-platform/what-is-the-rawrshak-platform.md)
 * [Platform Overview](rawrshak-platform/platform-overview.md)
-* [🛠 Rawrshak Ecosystem](rawrshak-platform/rawrshak-ecosystem.md)
+* [Rawrshak Ecosystem](rawrshak-platform/rawrshak-ecosystem.md)
 * [Networks](rawrshak-platform/networks.md)
 * [Litepapers](rawrshak-platform/litepapers.md)
 * [Community Channels](rawrshak-platform/community-channels/README.md)

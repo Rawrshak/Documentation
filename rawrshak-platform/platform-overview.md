@@ -1,4 +1,4 @@
-# Platform Overview
+# 🛠 Platform Overview
 
 The Rawrshak Platform consists of several projects. Each project plays an important role in helping the gaming ecosystem grow.
 
@@ -14,28 +14,14 @@ All assets that are created on the Rawrshak platform are indexed into the public
 
 In addition to the content subgraphs, we are also making public the marketplace subgraphs. Anyone is free to access marketplace information and provide interesting gamer and game developer dashboards.
 
-## Gaming Marketplace
-
-Existing marketplaces aren't designed for games. They have high fees and have friction for buying mundane non-unique assets. Not all assets need to be unique and require to be bought individually.&#x20;
-
-The Rawrshak marketplace will be optimized for gamers and game-centric actions such as buying items in bulk, instant purchasing, instant selling, orderbook matching, etc. Over time, the marketplace will look for ways to improve based on the gamer community's feedback.
-
 ## Public Game Engine SDKs & Tools
 
-Traditional game developers have many hurdles to overcome before they can fully integrating with the decentralized gaming space. One of the major issues is the lack of Web3 tools and libraries for game engines. Most game engine SDKs are still in development and there is little infrastructure. Game developers either have to write their own libraries or they need to wait for the public game engines to adopt.&#x20;
+// Todo: Talk about the game engines and tools that we have
 
-Our goals are to develop these missing pieces and encourage the ecosystem to develop libraries and tools for each other. Rawrshak is working on public game engines that will allow game developers to easily work with the Rawrshak platform.
+## Gaming Marketplace
+
+// Todo: Talk about the Rawrshak Marketplace and how it's different from other marketplaces
 
 ## Asset Framework and Metadata
 
-In order for decentralized gaming to truly take off, the assets that gamers acquire would ideally have utility beyond the game that they were created from. Despite that, there are many problems to overcome both in the intellectual property rights space and technical implementation space.&#x20;
-
-At this point, Rawrshak is more interested in the technical implementation space because that is going to be the basis of how we will define and modify intellectual property rights in the decentralized world. IP rights are only useful if there is a centralized figure to enforce these rules. It's difficult to adopt in a decentralized global gaming universe.
-
-On the technical side, the pathway to asset interoperability is also an uphill battle. Rawrshak is building an in-game asset framework that gives the developer a common framework for deploying their assets. The Rawrshak standardized metadata will take into account required information for different types of assets. Game developers and content creators will only need to deploy the assets according to these frameworks in order to launch interoperable assets. Games will need to adopt the asset framework in order to load assets that the gamers want to bring in. Rawrshak makes deploying an asset into the metaverse scalable and increases their value.
-
-## Future Projects
-
-The Rawrshak platform is based on the promise of a decentralized gaming universe and asset interoperability. The Rawrshak platform and it's community will continue to work on interesting projects for the ecosystem that will increase the ecosystem's value. Rawrshak will support creators and community managers in growing their spaces. Rawrshak will continue developing on-chain gaming mechanics that advance the gaming space in ways we haven't yet dreamed of.&#x20;
-
-Please stay tuned as we build the gamer paradise we've always dreamed of!
+// Todo:&#x20;
