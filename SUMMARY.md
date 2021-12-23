@@ -10,7 +10,7 @@
 * [Networks](rawrshak-platform/networks.md)
 * [Litepapers](rawrshak-platform/litepapers.md)
 * [Community Channels](rawrshak-platform/community-channels/README.md)
-  * [🛠 Partnerships & Integrations](rawrshak-platform/community-channels/partnerships-and-integrations.md)
+  * [Partnerships & Integrations](rawrshak-platform/community-channels/partnerships-and-integrations.md)
 
 ## Gamers
 
