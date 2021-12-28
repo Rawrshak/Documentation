@@ -1,3 +1,3 @@
-# 🛠 Developer Dapp
+# 🛠 Developer Decentralized Applications
 
-Todo: Discuss the game developer Dapp
+Under Development.
