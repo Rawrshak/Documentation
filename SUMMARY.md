@@ -9,8 +9,8 @@
 * [Rawrshak Ecosystem](rawrshak-platform/rawrshak-ecosystem.md)
 * [Networks](rawrshak-platform/networks.md)
 * [Litepapers](rawrshak-platform/litepapers.md)
-* [Community Channels](rawrshak-platform/community-channels/README.md)
-  * [Partnerships & Integrations](rawrshak-platform/community-channels/partnerships-and-integrations.md)
+* [Community Channels](rawrshak-platform/community-channels.md)
+* [Partnerships & Integrations](rawrshak-platform/partnerships-and-integrations.md)
 
 ## Gamers
 
@@ -55,5 +55,7 @@
 
 ## Governance
 
-* [🛠 RAWR Token](governance/rawr-token.md)
+* [RAWR Token](governance/rawr-token/README.md)
+  * [Tokenomics](governance/rawr-token/tokenomics.md)
+  * [Contract Addresses](governance/rawr-token/contract-addresses.md)
 * [🛠 Rawrshak DAO](governance/rawrshak-dao.md)

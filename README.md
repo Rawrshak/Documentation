@@ -13,7 +13,7 @@ Rawrshak’s goal is to build an equitable and sustainable global gaming ecosyst
 // Todo: Create this 2 minute product video.
 
 {% hint style="info" %}
-**If you just want to keep track of the Rawrshak project, come join us!** Check out the **** [community-channels](rawrshak-platform/community-channels/ "mention") for more details.
+**If you just want to keep track of the Rawrshak project, come join us!** Check out the **** [community-channels.md](rawrshak-platform/community-channels.md "mention") for more details.
 {% endhint %}
 
 ### Guides:
