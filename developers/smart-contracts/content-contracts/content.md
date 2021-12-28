@@ -100,7 +100,7 @@ description: 'Todo: Add content contract description here.'
 | visibility: external                            |
 | state mutability: view                          |
 
-| royaltyInfo(uint256 \_tokenId, uint256 \_salePrice) -> address, uint256)                                    |
+| royaltyInfo(uint256 \_tokenId, uint256 \_salePrice) -> address, uint256                                     |
 | ----------------------------------------------------------------------------------------------------------- |
 | Returns the receiver address and calculated royalty amount for token type `_tokenId` sold for `_salePrice`. |
 | visibility: external                                                                                        |

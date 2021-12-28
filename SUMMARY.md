@@ -9,7 +9,7 @@
 * [Rawrshak Ecosystem](rawrshak-platform/rawrshak-ecosystem.md)
 * [Networks](rawrshak-platform/networks.md)
 * [Litepapers](rawrshak-platform/litepapers.md)
-* [Community Channels](rawrshak-platform/community-channels.md)
+* [Community Channels](rawrshak-platform/community-channels/README.md)
 * [Partnerships & Integrations](rawrshak-platform/partnerships-and-integrations.md)
 
 ## Gamers
@@ -46,9 +46,9 @@
   * [Audio Assets](developers/in-game-asset-framework/audio-assets.md)
   * [Static 3D Objects](developers/in-game-asset-framework/static-3d-objects.md)
 * [Game Engines](developers/game-engines/README.md)
-  * [Unity Game Engine](developers/game-engines/unity-game-engine/README.md)
-    * [🛠 Unity SDK](developers/game-engines/unity-game-engine/unity-sdk.md)
-    * [🛠 Unity Tools](developers/game-engines/unity-game-engine/unity-tools.md)
+  * [Unity Game Engine](developers/supported-game-engines/unity-game-engine/README.md)
+    * [Unity SDK](developers/supported-game-engines/unity-game-engine/unity-sdk.md)
+    * [Unity Tools](developers/supported-game-engines/unity-game-engine/unity-tools.md)
   * [Unreal Game Engine](developers/game-engines/unreal-game-engine.md)
   * [Godot Game Engine](developers/game-engines/godot-game-engine.md)
 * [🛠 Developer Decentralized Applications](developers/developer-decentralized-applications.md)
