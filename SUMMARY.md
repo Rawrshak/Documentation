@@ -45,7 +45,7 @@
     * [Text Assets](developers/in-game-asset-framework/asset-types/text-assets.md)
     * [Image Assets](developers/in-game-asset-framework/asset-types/image-assets.md)
     * [Audio Assets](developers/in-game-asset-framework/asset-types/audio-assets.md)
-    * [🛠 Static 3D Objects](developers/in-game-asset-framework/asset-types/static-3d-objects.md)
+    * [Static 3D Objects](developers/in-game-asset-framework/asset-types/static-3d-objects.md)
 * [Game Engines](developers/game-engines/README.md)
   * [Unity Game Engine](developers/supported-game-engines/unity-game-engine/README.md)
     * [🛠 Unity SDK](developers/supported-game-engines/unity-game-engine/unity-sdk.md)
