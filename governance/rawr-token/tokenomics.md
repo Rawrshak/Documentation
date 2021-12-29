@@ -53,3 +53,9 @@ A total of 100,000,000 $RAWR tokens will be minted.
   * **1.2%** (1,200,000 RAWR) - Advisers and early supporters
   * **2.0%** (2,000,000 RAWR) - Partners
 * **10%** (10,000,000 RAWR) allocated to a Seed Round
+
+## More Info
+
+For more information, please refer to the $RAWR tokenomics litepaper:
+
+{% embed url="https://github.com/Rawrshak/Rawrshak-Litepaper/blob/main/RawrshakTokenomics.v.1.5.pdf" %}
