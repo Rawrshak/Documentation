@@ -6,17 +6,7 @@ These are the decentralized infrastructure projects and protocols that we are us
 
 ### [The Graph](partnerships-and-integrations.md#infrastructure)
 
-Rawrshak is deploying a public subgraphs that indexes the information for all projects in the platform. The deployed list of subgraphs:
-
-#### Content Subgraph
-
-* [Optimistic Kovan Testnet](https://thegraph.com/hosted-service/subgraph/gcbsumid/contents-optimistic-kovan)
-
-#### Marketplace Subgraph
-
-* [Optimistic Kovan Testnet](https://thegraph.com/hosted-service/subgraph/gcbsumid/exchange-optimistic-kovan)
-
-Anyone can use these subgraphs to query the ecosystem data to build web dashboards or query for in-game information.
+Rawrshak is deploying a public subgraphs that indexes the information for all projects in the platform. Anyone can use these subgraphs to query the ecosystem data to build web dashboards or query for in-game information.
 
 ### [Arweave](https://arweave.org)
 
