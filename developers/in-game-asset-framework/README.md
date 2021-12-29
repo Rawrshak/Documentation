@@ -17,7 +17,7 @@ The game developer may also opt to only load assets from content contracts that 
 The game engine SDK has capabilities to filter out assets from a user's wallet based on factors such as asset type, asset subtype, contract addresses, and other asset properties. The game developer may also implement their own filter using Rawrshak's subgraphs.
 
 {% hint style="info" %}
-Instructions on how to filter for assets using Rawrshak's subgraphs can be found [here](../rawrshak-subgraphs/game-engine-sdk-tutorials/).
+Instructions on how to filter for assets using Rawrshak's subgraphs can be found [here](broken-reference).
 {% endhint %}
 
 #### Asset Creator
