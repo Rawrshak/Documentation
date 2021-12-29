@@ -37,7 +37,6 @@
   * [Libraries](developers/smart-contracts/libraries/README.md)
     * [LibAsset](developers/smart-contracts/libraries/libasset.md)
     * [LibOrder](developers/smart-contracts/libraries/liborder.md)
-    * [LibRoyalty](developers/smart-contracts/libraries/libroyalty.md)
   * [Utilities](developers/smart-contracts/utilities/README.md)
     * [Address Resolver](developers/smart-contracts/utilities/address-resolver.md)
 * [In-game Asset Framework](developers/in-game-asset-framework/README.md)
