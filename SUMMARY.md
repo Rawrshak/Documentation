@@ -59,6 +59,8 @@
     * [Exchange Subgraph](developers/rawrshak-subgraphs/entities/exchange-subgraph.md)
 * [Tutorials](developers/tutorials/README.md)
   * [Unity](developers/tutorials/unity/README.md)
+    * [Loading the Rawrshak Tools](developers/tutorials/unity/loading-the-rawrshak-tools.md)
+    * [Loading the Rawrshak SDK](developers/tutorials/unity/loading-the-rawrshak-sdk.md)
     * [Packaging an Asset](developers/tutorials/unity/packaging-an-asset/README.md)
       * [🚧 Audio Asset](developers/tutorials/unity/packaging-an-asset/audio-asset.md)
       * [🚧 Static 3D Object Asset](developers/tutorials/unity/packaging-an-asset/static-3d-object-asset.md)

@@ -4,7 +4,8 @@
 
 ### Supported Versions
 
-* 2020+
+* 2020.3+ (tested 2020.3)
+* 2021.1+ (tested 2021.1)
 
 ### Supported Platforms
 
