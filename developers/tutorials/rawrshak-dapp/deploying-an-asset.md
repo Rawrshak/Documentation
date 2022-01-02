@@ -2,15 +2,15 @@
 
 #### 1. Go to Store Page in Developer Mode
 
-![Click the Store Page](<../../../.gitbook/assets/image (25).png>)
+![Click the Store Page](<../../../.gitbook/assets/image (25) (1).png>)
 
 #### 2. Select the Content Smart Contract
 
-![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20).png>)
+![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1).png>)
 
 #### 3. Click "_New Asset"_
 
-![Click New Asset to create a new asset NFT](<../../../.gitbook/assets/image (15).png>)
+![Click New Asset to create a new asset NFT](<../../../.gitbook/assets/image (15) (1).png>)
 
 #### 4. Fill in the Asset Information
 
@@ -32,7 +32,7 @@ Static 3D Object Asset: [5jpY4ouIl9EXqyep6z0p0S\_6nt87DEfsnsxefAa9cOE](https://4
 
 ![Click Create Asset](<../../../.gitbook/assets/image (9).png>)
 
-![PMetadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (14).png>)
+![PMetadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (14) (1).png>)
 
 #### 6. Approve and Deploy Transaction
 

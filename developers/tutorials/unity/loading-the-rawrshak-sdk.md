@@ -22,7 +22,7 @@ Select _Next and continue._
 
 In the _Project_ Tab, click the _New_ button (make sure the correct version is set). Select _3D_, add project name, and select _Create_.
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)
 
 {% hint style="info" %}
 Please keep in mind Rawrshak currently only support the Built-in Render Pipeline.
@@ -34,7 +34,7 @@ Rawrshak Tools releases: [https://github.com/Rawrshak/Unity-SDK/releases](https:
 
 Download the Rawrshak Unity SDK Unity Package.
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/image (27) (1).png>)
 
 {% hint style="warning" %}
 The Unity SDK is still in alpha and is subject to change during development. There are currently no stable releases yet. Please download the latest version for the most up to date package.
@@ -46,10 +46,10 @@ Open the folder where you downloaded the Unity Package.&#x20;
 
 Drag and Drop the package in the Unity package in the Unity Window.
 
-![Drop Package here.](<../../../.gitbook/assets/image (26).png>)
+![Drop Package here.](<../../../.gitbook/assets/image (26) (1).png>)
 
 Select "All" and click "Import"
 
-![](<../../../.gitbook/assets/image (17).png>)
+![](<../../../.gitbook/assets/image (17) (1).png>)
 
 #### 6. Finished!
