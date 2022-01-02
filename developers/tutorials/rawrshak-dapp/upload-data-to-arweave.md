@@ -1,9 +1,22 @@
 # 🚧 Upload Data to Arweave
 
-## Under Construction!
+### Requirements:
+
+* An Arweave Wallet with AR tokens
+* ArDrive login&#x20;
+
+### Tutorial
+
+#### 1. Login to ArDrive
+
+#### 2. Create the Folders for your file management
+
+#### 3. Upload the Asset Packages or Asset Files
+
+#### 4. Wait until the Arweave Transactions are confirmed.
 
 {% hint style="info" %}
-This content is coming soon! We're working diligently to create this content for our community!
-
-Are you a technical writer who'd like to make the Rawrshak Community better for everyone? Help write this page! Please reach out to <mark style="color:orange;">contact@rawrshak.io</mark>
+This may take somewhere between a 5 minutes to a few hours.
 {% endhint %}
+
+#### 5. Verify Data is uploaded using the _Data_ Transaction ID

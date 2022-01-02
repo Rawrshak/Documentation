@@ -1,9 +1,69 @@
-# 🚧 Deploy a Content Contract
+# Deploy a Content Contract
 
-## Under Construction!
+#### 1. Login using the Developer Wallet
+
+Rawrshak Developer Dapp: [https://alpha.rawrshak.io/#/](https://alpha.rawrshak.io/#/)
+
+![Open the Wallet Tab](<../../../.gitbook/assets/image (21).png>)
+
+![Click the Connect Button and Connect Metamask Wallet](<../../../.gitbook/assets/image (13).png>)
+
+#### 2. Select Developer Mode
+
+![Select Developer Mode](<../../../.gitbook/assets/image (12).png>)
+
+#### 3. Go to Store Page
+
+Store Page: [https://alpha.rawrshak.io/#/store](https://alpha.rawrshak.io/#/store)
+
+![Click the Store Page](<../../../.gitbook/assets/image (25).png>)
+
+#### 4. Click "_New Smart Contract"_
+
+![Select "Create your first Smart Contract" or "New Smart Contract" to create a new smart contract.](<../../../.gitbook/assets/image (2).png>)
+
+#### 5. Fill in the Information and click _Create_
 
 {% hint style="info" %}
-This content is coming soon! We're working diligently to create this content for our community!
+Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;
+{% endhint %}
 
-Are you a technical writer who'd like to make the Rawrshak Community better for everyone? Help write this page! Please reach out to <mark style="color:orange;">contact@rawrshak.io</mark>
+![Fill in Content Contract information and create contract](<../../../.gitbook/assets/image (16).png>)
+
+![Metadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (23).png>)
+
+{% hint style="info" %}
+Default Rawrshak Content Contract image asset:
+
+Content Contract Image Asset: [dI\_5bBKqfDwLUHhQXu\_ubnnBi5f3DcpHQ\_oHmIky1QU](https://osh7s3asvj6dyc2qpbif537onz44dc4x64g4ur2d7idzrcjs2ucq.arweave.net/dI\_5bBKqfDwLUHhQXu\_ubnnBi5f3DcpHQ\_oHmIky1QU)
+{% endhint %}
+
+{% hint style="info" %}
+Please refer to the Content Contract metadata for more information.
+
+// Todo
+{% endhint %}
+
+#### 7. Approve and Deploy Transaction
+
+Use Metamask to approve the transaction.&#x20;
+
+![Approve Deployment transaction](<../../../.gitbook/assets/image (24).png>)
+
+#### 8. Verify Smart Contract creation
+
+![Content Contract deployed properly in the Store Page](<../../../.gitbook/assets/image (5).png>)
+
+![Content Contract information](<../../../.gitbook/assets/image (4).png>)
+
+{% hint style="info" %}
+The Content subgraph takes a few seconds to a few minutes to update. Please wait for the transaction to propagate.
+{% endhint %}
+
+{% hint style="warning" %}
+#### \[Alpha Testnet Known Issue]
+
+Once propagated, if the newly creates smart contract did not populate the information, it means the IPFS metadata wasn't propagated properly and TheGraph was not able to parse the metadata. We're looking to switch from Arweave to IPFS, but it is currently not yet supported on TheGraph. The transition will take some time.
+
+In the meantime, please just redeploy a new smart contract.&#x20;
 {% endhint %}

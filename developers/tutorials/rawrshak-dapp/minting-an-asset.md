@@ -1,9 +1,17 @@
 # 🚧 Minting an Asset
 
-## Under Construction!
+#### 1. Go to Store Page in Developer Mode
+
+#### 2. Select the Content Smart Contract
+
+#### 3. Select the Asset to mint
+
+#### 4. Enter the Quantity to mint and click _Mint_
+
+#### 5. Approve and Deploy the Transaction
+
+#### 6. Verify Asset Minting
 
 {% hint style="info" %}
-This content is coming soon! We're working diligently to create this content for our community!
-
-Are you a technical writer who'd like to make the Rawrshak Community better for everyone? Help write this page! Please reach out to <mark style="color:orange;">contact@rawrshak.io</mark>
+The Content subgraph takes a few seconds to a few minutes to update. Please wait for the transaction to succeed and propagate to the subgraph.
 {% endhint %}

@@ -6,11 +6,11 @@ Download Unity: [https://unity.com/download](https://unity.com/download)
 
 If Unity Hub is already installed, open the _Installs_ Tab and click the _Add_ button. Select the recommended version of Unity 2020.3+ and select next:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 Add Android, iOS, Universal Windows Platform, and WebGL Build Support:
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
 Select _Next and continue._
 
@@ -18,7 +18,7 @@ Select _Next and continue._
 
 In the _Project_ Tab, click the _New_ button (make sure the correct version is set). Select _3D_, add project name, and select _Create_.
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 {% hint style="info" %}
 Please keep in mind Rawrshak currently only support the Built-in Render Pipeline.
@@ -30,7 +30,7 @@ In the Menu bar, open the Package Manager. Select _Window -> Package Manager_
 
 Select the _Unity Registry_ from the dropdown, and scroll down to _Editor Coroutines_. Select _Editor Coroutines_ and click _Install._
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (18).png>)
 
 #### 4. Download Unity Tools from the github repo (releases)
 
@@ -46,7 +46,7 @@ Open the folder where you downloaded the Unity Package.&#x20;
 
 Drag and Drop the package in the Unity package in the Unity Window.
 
-![Drop Package here.](<../../../.gitbook/assets/image (7).png>)
+![Drop Package here.](<../../../.gitbook/assets/image (26).png>)
 
 Select "All" and click "Import"
 

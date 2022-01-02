@@ -67,9 +67,9 @@
     * [🚧 Custom Subgraph Query](developers/tutorials/unity/custom-subgraph-query.md)
     * [🚧 Loading a Rawrshak Asset](developers/tutorials/unity/loading-a-rawrshak-asset.md)
   * [Rawrshak Dapp](developers/tutorials/rawrshak-dapp/README.md)
-    * [🚧 Deploy a Content Contract](developers/tutorials/rawrshak-dapp/deploy-a-content-contract.md)
+    * [Deploy a Content Contract](developers/tutorials/rawrshak-dapp/deploy-a-content-contract.md)
     * [🚧 Upload Data to Arweave](developers/tutorials/rawrshak-dapp/upload-data-to-arweave.md)
-    * [🚧 Deploying an Asset](developers/tutorials/rawrshak-dapp/deploying-an-asset.md)
+    * [Deploying an Asset](developers/tutorials/rawrshak-dapp/deploying-an-asset.md)
     * [🚧 Minting an Asset](developers/tutorials/rawrshak-dapp/minting-an-asset.md)
     * [🚧 Selling an Asset](developers/tutorials/rawrshak-dapp/selling-an-asset.md)
 
