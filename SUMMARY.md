@@ -14,6 +14,11 @@
 
 ## Tutorials
 
+* [Prefabs](tutorials/prefabs/README.md)
+  * [Wallet](tutorials/prefabs/wallet.md)
+  * [Subgraph](tutorials/prefabs/subgraph.md)
+  * [Ethereum Blockchain Query](tutorials/prefabs/ethereum-blockchain-query.md)
+  * [Rawrshak Asset](tutorials/prefabs/rawrshak-asset.md)
 * [Unity](tutorials/unity/README.md)
   * [Loading the Rawrshak Tools](tutorials/unity/loading-the-rawrshak-tools.md)
   * [Loading the Rawrshak SDK](tutorials/unity/loading-the-rawrshak-sdk.md)
@@ -22,7 +27,6 @@
     * [Static 3D Object Asset](tutorials/unity/packaging-an-asset/static-3d-object-asset.md)
     * [Audio Asset](tutorials/unity/packaging-an-asset/audio-asset.md)
   * [Custom Subgraph Query](tutorials/unity/custom-subgraph-query.md)
-  * [🚧 Loading a Rawrshak Asset](tutorials/unity/loading-a-rawrshak-asset.md)
 * [Rawrshak Dapp](tutorials/rawrshak-dapp/README.md)
   * [Deploy a Content Contract](tutorials/rawrshak-dapp/deploy-a-content-contract.md)
   * [Upload Data to Arweave](tutorials/rawrshak-dapp/upload-data-to-arweave.md)
