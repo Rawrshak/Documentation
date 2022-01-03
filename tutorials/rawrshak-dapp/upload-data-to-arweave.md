@@ -11,21 +11,21 @@
 
 ArDrive: [https://app.ardrive.io](https://app.ardrive.io/#/sign-in)
 
-![Log In to ArDrive](<../../../.gitbook/assets/image (14).png>)
+![Log In to ArDrive](<../../.gitbook/assets/image (14).png>)
 
 #### 2. Create the Folders for your file management
 
-![Create Folders for file management](<../../../.gitbook/assets/image (16).png>)
+![Create Folders for file management](<../../.gitbook/assets/image (16).png>)
 
 #### 3. Upload the Asset Packages or Asset Files
 
-![Click Upload File](<../../../.gitbook/assets/image (4).png>)
+![Click Upload File](<../../.gitbook/assets/image (4) (1).png>)
 
-![Upload File](<../../../.gitbook/assets/image (26).png>)
+![Upload File](<../../.gitbook/assets/image (26) (1).png>)
 
 #### 4. Wait until the Arweave Transactions are confirmed.
 
-![Arweave Transaction is waiting for confirmation.](<../../../.gitbook/assets/image (2).png>)
+![Arweave Transaction is waiting for confirmation.](<../../.gitbook/assets/image (2) (1).png>)
 
 {% hint style="info" %}
 This may take somewhere between a 5 minutes to a few hours.

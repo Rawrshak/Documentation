@@ -12,6 +12,24 @@
 * [Community Channels](rawrshak-platform/community-channels/README.md)
 * [Partnerships & Integrations](rawrshak-platform/partnerships-and-integrations.md)
 
+## Tutorials
+
+* [Unity](tutorials/unity/README.md)
+  * [Loading the Rawrshak Tools](tutorials/unity/loading-the-rawrshak-tools.md)
+  * [Loading the Rawrshak SDK](tutorials/unity/loading-the-rawrshak-sdk.md)
+  * [3D Static Object In-game Framework](tutorials/unity/3d-static-object-in-game-framework.md)
+  * [Packaging an Asset](tutorials/unity/packaging-an-asset/README.md)
+    * [Static 3D Object Asset](tutorials/unity/packaging-an-asset/static-3d-object-asset.md)
+    * [Audio Asset](tutorials/unity/packaging-an-asset/audio-asset.md)
+  * [🚧 Custom Subgraph Query](tutorials/unity/custom-subgraph-query.md)
+  * [🚧 Loading a Rawrshak Asset](tutorials/unity/loading-a-rawrshak-asset.md)
+* [Rawrshak Dapp](tutorials/rawrshak-dapp/README.md)
+  * [Deploy a Content Contract](tutorials/rawrshak-dapp/deploy-a-content-contract.md)
+  * [Upload Data to Arweave](tutorials/rawrshak-dapp/upload-data-to-arweave.md)
+  * [Deploying an Asset](tutorials/rawrshak-dapp/deploying-an-asset.md)
+  * [Minting an Asset](tutorials/rawrshak-dapp/minting-an-asset.md)
+  * [Selling an Asset](tutorials/rawrshak-dapp/selling-an-asset.md)
+
 ## Gamers
 
 * [Gamer Decentralized Applications](gamers/gamer-decentralized-applications.md)
@@ -57,21 +75,6 @@
   * [Entities](developers/rawrshak-subgraphs/entities/README.md)
     * [Content Subgraph](developers/rawrshak-subgraphs/entities/content-subgraph.md)
     * [Exchange Subgraph](developers/rawrshak-subgraphs/entities/exchange-subgraph.md)
-* [Tutorials](developers/tutorials/README.md)
-  * [Unity](developers/tutorials/unity/README.md)
-    * [Loading the Rawrshak Tools](developers/tutorials/unity/loading-the-rawrshak-tools.md)
-    * [Loading the Rawrshak SDK](developers/tutorials/unity/loading-the-rawrshak-sdk.md)
-    * [Packaging an Asset](developers/tutorials/unity/packaging-an-asset/README.md)
-      * [🚧 Audio Asset](developers/tutorials/unity/packaging-an-asset/audio-asset.md)
-      * [🚧 Static 3D Object Asset](developers/tutorials/unity/packaging-an-asset/static-3d-object-asset.md)
-    * [🚧 Custom Subgraph Query](developers/tutorials/unity/custom-subgraph-query.md)
-    * [🚧 Loading a Rawrshak Asset](developers/tutorials/unity/loading-a-rawrshak-asset.md)
-  * [Rawrshak Dapp](developers/tutorials/rawrshak-dapp/README.md)
-    * [Deploy a Content Contract](developers/tutorials/rawrshak-dapp/deploy-a-content-contract.md)
-    * [Upload Data to Arweave](developers/tutorials/rawrshak-dapp/upload-data-to-arweave.md)
-    * [Deploying an Asset](developers/tutorials/rawrshak-dapp/deploying-an-asset.md)
-    * [Minting an Asset](developers/tutorials/rawrshak-dapp/minting-an-asset.md)
-    * [Selling an Asset](developers/tutorials/rawrshak-dapp/selling-an-asset.md)
 
 ## Governance
 
