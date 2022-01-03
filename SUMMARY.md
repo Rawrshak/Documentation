@@ -21,7 +21,7 @@
   * [Packaging an Asset](tutorials/unity/packaging-an-asset/README.md)
     * [Static 3D Object Asset](tutorials/unity/packaging-an-asset/static-3d-object-asset.md)
     * [Audio Asset](tutorials/unity/packaging-an-asset/audio-asset.md)
-  * [🚧 Custom Subgraph Query](tutorials/unity/custom-subgraph-query.md)
+  * [Custom Subgraph Query](tutorials/unity/custom-subgraph-query.md)
   * [🚧 Loading a Rawrshak Asset](tutorials/unity/loading-a-rawrshak-asset.md)
 * [Rawrshak Dapp](tutorials/rawrshak-dapp/README.md)
   * [Deploy a Content Contract](tutorials/rawrshak-dapp/deploy-a-content-contract.md)
