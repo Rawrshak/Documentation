@@ -14,6 +14,7 @@
 
 ## Tutorials
 
+* [Gamer](tutorials/gamer.md)
 * [Prefabs](tutorials/prefabs/README.md)
   * [Wallet](tutorials/prefabs/wallet.md)
   * [Subgraph](tutorials/prefabs/subgraph.md)
