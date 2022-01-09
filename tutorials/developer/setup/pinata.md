@@ -12,9 +12,9 @@ In the meantime, please use this tutorial to create and use the Pinata account f
 
 #### 1. Register for a [Pinata ](https://www.pinata.cloud)Account
 
-![Go to Pinata: www.pinata.cloud](<../../../.gitbook/assets/image (11).png>)
+![Go to Pinata: www.pinata.cloud](<../../../.gitbook/assets/image (11) (1).png>)
 
-![Register for Pinata](<../../../.gitbook/assets/image (31).png>)
+![Register for Pinata](<../../../.gitbook/assets/image (31) (1).png>)
 
 {% hint style="info" %}
 Pinata gives you 1GB free of pinning service which is more than enough for uploading asset metadata at about 200 bytes to 2kb per metadata file.
@@ -30,7 +30,7 @@ In the profile button on the top right, open the dropdown menu and select _API K
 
 Set "Admin" to true and set Key Name
 
-![Set API Key Settings](<../../../.gitbook/assets/image (19).png>)
+![Set API Key Settings](<../../../.gitbook/assets/image (19) (1).png>)
 
 #### 4. Copy newly generated Pinata API Key somewhere safe
 
@@ -44,6 +44,6 @@ If your API Keys become compromised, you can simply Revoke access to these keys.
 
 ![Revoking Access](<../../../.gitbook/assets/image (10).png>)
 
-![Revoke Key](<../../../.gitbook/assets/image (21).png>)
+![Revoke Key](<../../../.gitbook/assets/image (21) (1).png>)
 
 #### Go to the next tutorial to learn how to load the Arweave Wallet to your ArDrive account for easy asset management.

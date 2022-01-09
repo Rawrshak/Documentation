@@ -15,9 +15,10 @@
 ## Tutorials
 
 * [Gamer](tutorials/gamer/README.md)
-  * [🚧 Creating a Metamask Wallet](tutorials/gamer/creating-a-metamask-wallet.md)
-  * [🚧 Funding Testnet Wallet](tutorials/gamer/funding-testnet-wallet.md)
-  * [Adding Optimism Kovan Network](tutorials/gamer/adding-optimism-kovan-network.md)
+  * [Setup](tutorials/gamer/setup/README.md)
+    * [Metamask Wallet](tutorials/gamer/setup/metamask-wallet.md)
+    * [Adding Optimism Kovan Network](tutorials/gamer/setup/adding-optimism-kovan-network.md)
+    * [Funding Testnet Wallet](tutorials/gamer/setup/funding-testnet-wallet.md)
 * [Developer](tutorials/developer/README.md)
   * [Setup](tutorials/developer/setup/README.md)
     * [Arweave Wallet](tutorials/developer/setup/arweave-wallet/README.md)

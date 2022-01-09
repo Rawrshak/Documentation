@@ -2,7 +2,7 @@
 
 #### 1. Go to Inventory Page in Developer Mode
 
-![Go to the Inventory Page](<../../../.gitbook/assets/image (3) (1).png>)
+![Go to the Inventory Page](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 #### 2. Select the Asset to Sell
 
@@ -14,7 +14,7 @@
 
 #### 4. Enter the Amount to sell and the Price
 
-![Set Amount to Sell and Price](<../../../.gitbook/assets/image (6) (1).png>)
+![Set Amount to Sell and Price](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 #### 5. Create and Deploy the Approval Transaction (if necessary)
 

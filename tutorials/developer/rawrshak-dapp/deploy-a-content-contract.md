@@ -4,7 +4,7 @@
 
 Rawrshak Developer Dapp: [https://alpha.rawrshak.io/#/](https://alpha.rawrshak.io/#/)
 
-![Open the Wallet Tab](<../../../.gitbook/assets/image (21) (1) (1).png>)
+![Open the Wallet Tab](<../../../.gitbook/assets/image (21) (1) (1) (1).png>)
 
 ![Click the Connect Button and Connect Metamask Wallet](<../../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
@@ -20,7 +20,7 @@ Store Page: [https://alpha.rawrshak.io/#/store](https://alpha.rawrshak.io/#/stor
 
 #### 4. Click "_New Smart Contract"_
 
-![Select "Create your first Smart Contract" or "New Smart Contract" to create a new smart contract.](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![Select "Create your first Smart Contract" or "New Smart Contract" to create a new smart contract.](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 #### 5. Fill in the Information and click _Create_
 
@@ -36,7 +36,7 @@ Content Contract Image Asset: **https://arweave.net/dI\_5bBKqfDwLUHhQXu\_ubnnBi5
 Link: [dI\_5bBKqfDwLUHhQXu\_ubnnBi5f3DcpHQ\_oHmIky1QU](https://osh7s3asvj6dyc2qpbif537onz44dc4x64g4ur2d7idzrcjs2ucq.arweave.net/dI\_5bBKqfDwLUHhQXu\_ubnnBi5f3DcpHQ\_oHmIky1QU)
 {% endhint %}
 
-![Fill in Content Contract information and create contract](<../../../.gitbook/assets/image (16) (1) (1).png>)
+![Fill in Content Contract information and create contract](<../../../.gitbook/assets/image (16) (1) (1) (1).png>)
 
 ![Metadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
@@ -54,9 +54,9 @@ Use Metamask to approve the transaction.&#x20;
 
 #### 8. Verify Smart Contract creation
 
-![Content Contract deployed properly in the Store Page](<../../../.gitbook/assets/image (5) (1).png>)
+![Content Contract deployed properly in the Store Page](<../../../.gitbook/assets/image (5) (1) (1).png>)
 
-![Content Contract information](<../../../.gitbook/assets/image (4) (1) (1) (1).png>)
+![Content Contract information](<../../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 The Content subgraph takes a few seconds to a few minutes to update. Please wait for the transaction to propagate.

@@ -25,11 +25,11 @@
 | Audio            | **https://arweave.net/eAnYl\_kEpDtYQA8240b0naau5PP4czOFP1qGg4zazQQ**  |
 | Static 3D Object | **https://arweave.net/5jpY4ouIl9EXqyep6z0p0S\_6nt87DEfsnsxefAa9cOE**  |
 
-![Fill in Asset Information](<../../../.gitbook/assets/image (11) (1) (1).png>)
+![Fill in Asset Information](<../../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 #### 5. Click "Create Asset"
 
-![Click Create Asset](<../../../.gitbook/assets/image (9) (1) (1).png>)
+![Click Create Asset](<../../../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 ![PMetadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (14) (1) (1).png>)
 

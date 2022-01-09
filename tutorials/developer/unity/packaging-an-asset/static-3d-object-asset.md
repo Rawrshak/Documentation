@@ -20,7 +20,7 @@ Make sure the orientation is (0,0,0), location is (0,0,0), and scale is (1,1,1)
 
 Drag the SCI\_FRS\_13\_HD inside the FRS game object.
 
-![Set FRS to the parent of SCI\_FRS\_13\_HD object](<../../../../.gitbook/assets/image (4) (1).png>)
+![Set FRS to the parent of SCI\_FRS\_13\_HD object](<../../../../.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="info" %}
 Note: These logical groupings are just as an example. As all the necessary objects are under one Parent game object (in this case, FRS), it's fine to change the child grouping to your liking.
@@ -56,7 +56,7 @@ If you selected Android, iOS, and WebGL, Unity may have to install the necessary
 
 #### 6. Viewing the generated Asset Bundle
 
-![Viewing Generated Asset Bundle information](<../../../../.gitbook/assets/image (3).png>)
+![Viewing Generated Asset Bundle information](<../../../../.gitbook/assets/image (3) (1).png>)
 
 You can click the row of the asset bundle that was generated to view the asset bundle information on the right.
 

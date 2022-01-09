@@ -12,7 +12,7 @@ Go to: [app.ardrive.io](https://app.ardrive.io/#/sign-in)
 
 In this tutorial, we'll be using the ArConnect to create an account.
 
-![Select "Use ArConnect"](<../../../../.gitbook/assets/image (9).png>)
+![Select "Use ArConnect"](<../../../../.gitbook/assets/image (9) (1).png>)
 
 ![Log in using ArConnect](<../../../../.gitbook/assets/image (12).png>)
 
@@ -20,7 +20,7 @@ In this tutorial, we'll be using the ArConnect to create an account.
 
 #### 2. Create an ArDrive Account
 
-![Create a new ArDrive account](<../../../../.gitbook/assets/image (42).png>)
+![Create a new ArDrive account](<../../../../.gitbook/assets/image (42) (1).png>)
 
 #### 3. Verify ArDrive account was connected
 

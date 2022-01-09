@@ -2,7 +2,7 @@
 
 #### 1. Load audio into the project
 
-![Loaded Audio File in project](<../../../../.gitbook/assets/image (19) (1).png>)
+![Loaded Audio File in project](<../../../../.gitbook/assets/image (19) (1) (1).png>)
 
 #### 2. Set Asset bundle in the Audio Inspector
 

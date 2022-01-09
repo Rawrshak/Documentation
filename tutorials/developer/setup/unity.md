@@ -10,6 +10,6 @@ If Unity Hub is already installed, open the _Installs_ Tab and click the _Add_ b
 
 Add Android, iOS, Universal Windows Platform, and WebGL Build Support:
 
-![](<../../../.gitbook/assets/image (19) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1) (1).png>)
 
 Select _Next and continue._
