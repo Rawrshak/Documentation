@@ -1,8 +1,8 @@
-# In-game Asset Framework
+# Meta Asset Framework
 
-The in-game asset framework is a guide for asset creators to follow in order for their assets to be loadable by games. Game developers expect loadable assets to be within the framework for the asset type it's loading. Before loading, the game must verify that the asset against the asset type requirements. If verification fails, the game cannot load the user's asset.
+The Meta Asset Framework is a guide for asset creators to follow in order for their assets to be loadable by games. Game developers expect meta assets to be within the framework for the asset type it's loading. Before loading, the game must verify that the asset against the asset type requirements. If verification fails, the game cannot load the user's asset.
 
-The asset framework gives game developers and content creators a guide to follow so that their content may traverse different worlds. With this "Deploy Once" strategy, asset launch scalability increases and the need to collaborate with other game developers individually is removed.
+The meta asset framework gives game developers and content creators a guide to follow so that their content may traverse different worlds. With this "Deploy Once" strategy, asset launch scalability increases and the need to collaborate with other game developers individually is removed.
 
 From the game developer's perspective, by enabling asset interoperability within their game, the value of their game increases. Players are more inclined to spend time in their game and show off their collections.
 
