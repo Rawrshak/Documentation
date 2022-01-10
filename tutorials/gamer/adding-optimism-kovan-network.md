@@ -20,12 +20,12 @@ Optimism Kovan Network is the test network we are going to use for the Rawrshak 
 
 This opens up the Metamask Settings. Fill in the Optimism Kovan and click _Save_ to add the network.
 
-| Parameter          | Value                                                                          |
-| ------------------ | ------------------------------------------------------------------------------ |
-| Network Name       | Optimism Kovan                                                                 |
-| New RPC URL        | [https://kovan.optimism.io](https://kovan.optimism.io)                         |
-| Chain ID           | 69                                                                             |
-| Block Explorer URL | [https://kovan-optimistic.etherscan.io](https://kovan-optimistic.etherscan.io) |
-| Currency Symbol    | ETH                                                                            |
+| Parameter          | Value                                 |
+| ------------------ | ------------------------------------- |
+| Network Name       | Optimism Kovan                        |
+| New RPC URL        | https://kovan.optimism.io             |
+| Chain ID           | 69                                    |
+| Block Explorer URL | https://kovan-optimistic.etherscan.io |
+| Currency Symbol    | ETH                                   |
 
 ![](<../../.gitbook/assets/image (29).png>)

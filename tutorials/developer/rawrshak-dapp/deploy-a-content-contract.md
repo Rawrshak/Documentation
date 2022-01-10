@@ -24,10 +24,6 @@ Store Page: [https://alpha.rawrshak.io/#/store](https://alpha.rawrshak.io/#/stor
 
 #### 5. Fill in the Information and click _Create_
 
-{% hint style="info" %}
-Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;
-{% endhint %}
-
 {% hint style="warning" %}
 **IMPORTANT:** If the developer doesn't have an image to use for the contract, they can use the Rawrshak's default content contract image.
 
@@ -42,8 +38,6 @@ Link: [dI\_5bBKqfDwLUHhQXu\_ubnnBi5f3DcpHQ\_oHmIky1QU](https://osh7s3asvj6dyc2qp
 
 {% hint style="info" %}
 Please refer to the Content Contract metadata for more information.
-
-// Todo
 {% endhint %}
 
 #### 7. Approve and Deploy Transaction
@@ -51,6 +45,10 @@ Please refer to the Content Contract metadata for more information.
 Use Metamask to approve the transaction.&#x20;
 
 ![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1).png>)
+
+{% hint style="info" %}
+Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;
+{% endhint %}
 
 #### 8. Verify Smart Contract creation
 

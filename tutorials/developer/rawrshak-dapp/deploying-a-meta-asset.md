@@ -1,4 +1,4 @@
-# Deploying an Asset
+# Deploying a Meta Asset
 
 #### 1. Go to Store Page in Developer Mode
 
@@ -38,6 +38,10 @@
 Use Metamask to approve the transaction.&#x20;
 
 ![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1).png>)
+
+{% hint style="info" %}
+Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;
+{% endhint %}
 
 #### 7. Verify Asset creation
 

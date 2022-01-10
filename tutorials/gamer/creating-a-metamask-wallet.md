@@ -16,7 +16,7 @@ The wallets created in this tutorial are for testing purposes only and not used 
 
 Go to the chrome web store and search for metamask: [Link](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
-![Click Add to Chrome and add the extension to your browser](<../../.gitbook/assets/image (9).png>)
+![Add Metamask to your browser](<../../.gitbook/assets/image (28).png>)
 
 #### 2. Generate an Ethereum Wallet or login with your wallet's Secret Recovery Phrase
 

@@ -44,6 +44,6 @@ Select _"Load Wallet(s)"_ and load the downloaded Arweave wallet file from step 
 
 The Arweave wallet should now be accessible in the ArConnect extension.
 
-![Arweave Wallet Loaded](<../../../../.gitbook/assets/image (28).png>)
+![Arweave Wallet Loaded](<../../../../.gitbook/assets/image (28) (1).png>)
 
 #### Go to the next tutorial to learn how to load the Arweave Wallet to your ArDrive account for easy asset management.

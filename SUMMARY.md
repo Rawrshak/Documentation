@@ -41,9 +41,9 @@
   * [Rawrshak Dapp](tutorials/developer/rawrshak-dapp/README.md)
     * [Deploy a Content Contract](tutorials/developer/rawrshak-dapp/deploy-a-content-contract.md)
     * [Upload Data to Arweave](tutorials/developer/rawrshak-dapp/upload-data-to-arweave.md)
-    * [Deploying an Asset](tutorials/developer/rawrshak-dapp/deploying-an-asset.md)
-    * [Minting an Asset](tutorials/developer/rawrshak-dapp/minting-an-asset.md)
-    * [Selling an Asset](tutorials/developer/rawrshak-dapp/selling-an-asset.md)
+    * [Deploying a Meta Asset](tutorials/developer/rawrshak-dapp/deploying-a-meta-asset.md)
+    * [Minting a Meta Asset](tutorials/developer/rawrshak-dapp/minting-a-meta-asset.md)
+    * [Selling a Meta Asset](tutorials/developer/rawrshak-dapp/selling-a-meta-asset.md)
 * [Unity Asset Viewer](tutorials/unity-asset-viewer.md)
 
 ## Gamers

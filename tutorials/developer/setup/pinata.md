@@ -46,4 +46,4 @@ If your API Keys become compromised, you can simply Revoke access to these keys.
 
 ![Revoke Key](<../../../.gitbook/assets/image (21) (1).png>)
 
-#### Go to the next tutorial to learn how to load the Arweave Wallet to your ArDrive account for easy asset management.
+#### Go to the next tutorial to learn how to download and set up Unity.
