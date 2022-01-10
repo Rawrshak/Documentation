@@ -54,11 +54,12 @@ description: 'Todo: Add exchange contract description here.'
 >
 > addSupportedToken(\_token)
 
-| getOrder(uint256 id) -> LibOrder.Order                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Retrieves `id`'s order information from the orders mapping in [Orderbook.sol](https://github.com/Rawrshak/Rawrshak/blob/main/contracts/exchange/Orderbook.sol). |
-| visibility: external                                                                                                                                            |
-| state mutability: view                                                                                                                                          |
+| getOrder(uint256 id) -> LibOrder.Order |
+| -------------------------------------- |
+| Retrieves `id`'s order information.    |
+|                                        |
+| visibility: external                   |
+| state mutability: view                 |
 
 | tokenEscrow() -> address              |
 | ------------------------------------- |
@@ -78,13 +79,13 @@ description: 'Todo: Add exchange contract description here.'
 | visibility: external                                                                       |
 | state mutability: view                                                                     |
 
-| placeOrder(LibOrder.OrderInput \_order)                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Places a buy or sell order with the information `_order` on the exchange and transfers the tokens to escrow.                              |
-| `_order` OrderInput structure object. See [LibOrder.sol](https://github.com/Rawrshak/Rawrshak/blob/main/contracts/libraries/LibOrder.sol) |
-| emits an <mark style="color:blue;">`OrderPlaced`</mark> event.                                                                            |
-| visibility: external                                                                                                                      |
-| state mutability:                                                                                                                         |
+| placeOrder(LibOrder.OrderInput \_order)                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| Places a buy or sell order with the information `_order` on the exchange and transfers the tokens to escrow.                      |
+| `_order` OrderInput structure object. See [LibOrder.sol](https://docs.rawrshak.io/developers/smart-contracts/libraries/liborder). |
+| emits an <mark style="color:blue;">`OrderPlaced`</mark> event.                                                                    |
+| visibility: external                                                                                                              |
+| state mutability:                                                                                                                 |
 
 | fillBuyOrder(uint256\[] \_orderIds, uint256 amountToSell, uint256 maxSpend)                                                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -118,14 +119,18 @@ description: 'Todo: Add exchange contract description here.'
 | visibility: external                                                                                                             |
 | state mutability:                                                                                                                |
 
-| claimRoyalties()                                                                           |
-| ------------------------------------------------------------------------------------------ |
-| Withdraws royalties available to claim from purchases of their asset made on the exchange. |
-| visibility: external                                                                       |
-| state mutability:                                                                          |
+| claimRoyalties()                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------- |
+| Withdraws royalties available to claim from purchases of their asset made on the exchange.                                   |
+| Emits a <mark style="color:blue;">`ClaimedRoyalties`</mark> event.                                                           |
+| Passes through [RoyaltyManager.sol](https://docs.rawrshak.io/developers/smart-contracts/exchange-contracts/royalty-manager). |
+| visibility: external                                                                                                         |
+| state mutability:                                                                                                            |
 
-| addSupportedToken(address \_token)                                   |
-| -------------------------------------------------------------------- |
-| Adds `_token` to the list of supported ERC20 tokens on the exchange. |
-| visibility: external                                                 |
-| state mutability:                                                    |
+| addSupportedToken(address \_token)                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------- |
+| Adds `_token` to the list of supported ERC20 tokens on Rawrshak.                                                      |
+| Emits an <mark style="color:blue;">`AddedTokenSupport`</mark> event.                                                  |
+| Passes through [Erc20Escrow.sol](https://docs.rawrshak.io/developers/smart-contracts/exchange-contracts/erc20escrow). |
+| visibility: external                                                                                                  |
+| state mutability:                                                                                                     |

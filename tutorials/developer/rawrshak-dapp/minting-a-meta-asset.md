@@ -1,4 +1,4 @@
-# Minting an Asset
+# Minting a Meta Asset
 
 #### 1. Go to Store Page in Developer Mode
 
@@ -26,7 +26,7 @@ Use your connected wallet and confirm the Mint Transaction.
 
 Confirm that the assets were minted by going to the developer's Inventory and Content contract page.
 
-![Assets are minted.](<../../../.gitbook/assets/image (27) (1) (1) (1).png>)
+![Assets are minted.](<../../../.gitbook/assets/image (27) (1) (1).png>)
 
 {% hint style="info" %}
 The Content subgraph takes a few seconds to a few minutes to update. Please wait for the transaction to succeed and propagate to the subgraph.

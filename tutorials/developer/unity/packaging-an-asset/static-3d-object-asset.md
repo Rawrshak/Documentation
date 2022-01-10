@@ -20,7 +20,7 @@ Make sure the orientation is (0,0,0), location is (0,0,0), and scale is (1,1,1)
 
 Drag the SCI\_FRS\_13\_HD inside the FRS game object.
 
-![Set FRS to the parent of SCI\_FRS\_13\_HD object](<../../../../.gitbook/assets/image (4) (1) (1).png>)
+![Set FRS to the parent of SCI\_FRS\_13\_HD object](<../../../../.gitbook/assets/image (4) (2).png>)
 
 {% hint style="info" %}
 Note: These logical groupings are just as an example. As all the necessary objects are under one Parent game object (in this case, FRS), it's fine to change the child grouping to your liking.

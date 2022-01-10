@@ -14,7 +14,7 @@ Rawrshak is only supported on 2020.3+ Unity versions.&#x20;
 
 Select Platform to install.
 
-![](<../../../.gitbook/assets/image (19) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1).png>)
 
 Select _Next and continue._
 
@@ -34,7 +34,7 @@ Rawrshak Tools releases: [https://github.com/Rawrshak/Unity-SDK/releases](https:
 
 Download the Rawrshak Unity SDK Unity Package.
 
-![](<../../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (27) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 The Unity SDK is still in alpha and is subject to change during development. There are currently no stable releases yet. Please download the latest version for the most up to date package.

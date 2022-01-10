@@ -43,7 +43,7 @@ description: 'Todo: Add content contract description here.'
 | mintBatch(LibAsset.MintData \_data)                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Mints a batch of assets.                                                                                                                                                                                                 |
-| `_data` MintData structure object. See [LibAsset.sol](https://github.com/Rawrshak/Rawrshak/blob/main/contracts/libraries/LibAsset.sol).                                                                                  |
+| `_data` MintData structure object. See [LibAsset.sol](https://docs.rawrshak.io/developers/smart-contracts/libraries/libasset).                                                                                           |
 | Emits a `Mint` event.                                                                                                                                                                                                    |
 | <p>Requirements:</p><ul><li>The caller must be verified.</li><li>The specified token Id in <code>_data</code> must exist.</li><li>The maximum supply of each token will not be surpassed through this minting.</li></ul> |
 | visibility: external                                                                                                                                                                                                     |
@@ -52,17 +52,18 @@ description: 'Todo: Add content contract description here.'
 | burnBatch(LibAsset.BurnData \_data)                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Burns a batch of assets.                                                                                                                              |
-| `_data` BurnData structure object. See [LibAsset.sol](https://github.com/Rawrshak/Rawrshak/blob/main/contracts/libraries/LibAsset.sol).               |
+| `_data` BurnData structure object. See [LibAsset.sol](https://docs.rawrshak.io/developers/smart-contracts/libraries/libasset).                        |
 | Emits a <mark style="color:blue;">`Burn`</mark> event.                                                                                                |
 | <p>Requirements:</p><ul><li>The caller must be the owner of the tokens or approved by approved by the owner.</li><li>The tokens must exist.</li></ul> |
 | visibility: external                                                                                                                                  |
 | state mutability:                                                                                                                                     |
 
-| contractUri() -> string   |
-| ------------------------- |
-| Returns the contract uri. |
-| visibility: external      |
-| state mutability: view    |
+| contractUri() -> string                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| Returns the contract uri.                                                                                                   |
+| Passes through [ContentStorage.sol](https://docs.rawrshak.io/developers/smart-contracts/content-contracts/content-storage). |
+| visibility: external                                                                                                        |
+| state mutability: view                                                                                                      |
 
 | uri(uint256 \_tokenId) -> string                        |
 | ------------------------------------------------------- |
@@ -70,11 +71,12 @@ description: 'Todo: Add content contract description here.'
 | visbility: external                                     |
 | state mutability: view                                  |
 
-| uri(uint256 \_tokenId, uint256 \_version) -> string                                 |
-| ----------------------------------------------------------------------------------- |
-| Returns the particular public uri of token type `_tokenId` specified by `_version`. |
-| visibility: external                                                                |
-| state mutability: view                                                              |
+| uri(uint256 \_tokenId, uint256 \_version) -> string                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| Returns the particular public uri of token type `_tokenId` specified by `_version`.                                         |
+| Passes through [ContentStorage.sol](https://docs.rawrshak.io/developers/smart-contracts/content-contracts/content-storage). |
+| visibility: external                                                                                                        |
+| state mutability: view                                                                                                      |
 
 | totalSupply(uint256 \_tokenId) -> uint256                                   |
 | --------------------------------------------------------------------------- |
@@ -88,11 +90,12 @@ description: 'Todo: Add content contract description here.'
 | visibility: external                                                              |
 | state mutability: view                                                            |
 
-| contractRoyalty() -> address, uint24                                             |
-| -------------------------------------------------------------------------------- |
-| Returns the default royalty receiver address and rate for the contract's assets. |
-| visibility: external                                                             |
-| state mutability: view                                                           |
+| contractRoyalty() -> address, uint24                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| Returns the default royalty receiver address and rate for the contract's assets.                                            |
+| Passes through [ContentStorage.sol](https://docs.rawrshak.io/developers/smart-contracts/content-contracts/content-storage). |
+| visibility: external                                                                                                        |
+| state mutability: view                                                                                                      |
 
 | userMintNonce(address \_user) -> uint256        |
 | ----------------------------------------------- |

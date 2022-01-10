@@ -2,7 +2,7 @@
 
 #### 1. Load Folder containing the asset into the Package Loader Project
 
-![Load Folder containing assets (textures, mesh, materials, etc)](<../../../.gitbook/assets/image (29) (1) (1).png>)
+![Load Folder containing assets (textures, mesh, materials, etc)](<../../../.gitbook/assets/image (29) (2).png>)
 
 {% hint style="info" %}
 Developer may import .obj files, .fbx file, or 3d software package file that is supported by Unity.
@@ -44,7 +44,7 @@ Please note the Object Bounds script in the inspector.&#x20;
 
 #### 4.1 Add Box Collider to the model with the Mesh Renderer.
 
-![](<../../../.gitbook/assets/image (31) (1) (1).png>)
+![](<../../../.gitbook/assets/image (31) (2).png>)
 
 Click the object with the mesh renderer to open the inspector. In this case, it's the '_default'_ object inside SCI\_FRS_\__13\_HD game object.&#x20;
 
@@ -76,11 +76,11 @@ Make sure that the HorizontalZObjectBounds is at (0,0.5,0) with a scale of (1,1,
 
 If the asset intersects or is completely outside the object bounds, it will turn red.
 
-![Invalid Asset](<../../../.gitbook/assets/image (30) (1) (1).png>)
+![Invalid Asset](<../../../.gitbook/assets/image (30) (2).png>)
 
 Make sure that the asset is oriented correctly and is scaled to completely fit inside the bounding box.&#x20;
 
-![Fits inside the Bounding Box](<../../../.gitbook/assets/image (11) (1) (1).png>)
+![Fits inside the Bounding Box](<../../../.gitbook/assets/image (11) (2).png>)
 
 #### 5. Finished!
 

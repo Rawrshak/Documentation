@@ -95,8 +95,6 @@ Sound effect assets are short audio clips used for sound effects.&#x20;
 }
 ```
 
-
-
 ### Shout Subtype
 
 Shout assets are short character lines used for quick taunts, player communication, or character reactions.&#x20;
@@ -127,8 +125,6 @@ Shout assets are short character lines used for quick taunts, player communicati
     ...
 }
 ```
-
-
 
 ### Character Line Subtype
 
