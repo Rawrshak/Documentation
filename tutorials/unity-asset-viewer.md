@@ -18,6 +18,7 @@ This project is a Unity game on windows desktop that allows a gamer to view the 
 2. Open Unity Hub
 3. Add Unity-Asset-Viewer-Project to Unity Hub
 4. Open Unity-Asset-Viewer-Project
+5. In the Projects tab, open the Assets\Scene folder and load (double-click) SampleScene
 
 {% hint style="info" %}
 This project is only a demo project. This is not a production quality game and will probably have bugs. Please use at your own risk.
