@@ -30,7 +30,7 @@ In this tutorial, we will create a new wallet.
 
 #### 4. Save Secret Phrase for recovery
 
-![Save Secret Phrase and finish the wallet creation process](<../../.gitbook/assets/image (31).png>)
+![Save Secret Phrase and finish the wallet creation process](<../../.gitbook/assets/image (31) (1).png>)
 
 #### 5. All Done!
 

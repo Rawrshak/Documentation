@@ -14,7 +14,7 @@ In the meantime, please use this tutorial to create and use the Pinata account f
 
 ![Go to Pinata: www.pinata.cloud](<../../../.gitbook/assets/image (11) (1).png>)
 
-![Register for Pinata](<../../../.gitbook/assets/image (31) (1).png>)
+![Register for Pinata](<../../../.gitbook/assets/image (31) (1) (1).png>)
 
 {% hint style="info" %}
 Pinata gives you 1GB free of pinning service which is more than enough for uploading asset metadata at about 200 bytes to 2kb per metadata file.

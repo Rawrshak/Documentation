@@ -1,4 +1,4 @@
-# 🚧 Audio Meta Asset
+# Audio Meta Asset
 
 ## Under Construction!
 
@@ -30,28 +30,32 @@ Please check out [this tutorial ](../upload-data-to-arweave.md)in order to uploa
 
 #### 4. Fill in the information about the Asset
 
-| Value       | Description                                                                                                                                                                                                         |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Name        | Name of the meta asset                                                                                                                                                                                              |
-| Description | Description of the meta asset                                                                                                                                                                                       |
-| Image       | Image src that will show up on Dapps and other front-ends                                                                                                                                                           |
-| Tags        | An array of tags categorizing the asset                                                                                                                                                                             |
-| Type        | The Main type of meta asset. In this case, it should be set to Image                                                                                                                                                |
-| Subtype     | The subtype of the meta asset. Please refer to the [Image Assets](../../../../developers/in-game-asset-framework/asset-types/image-assets.md) page to get more info on which subtype to select. Defaults to square. |
-| NSFW        | Notifies game developers and users of explicit content. Please mark this correctly.                                                                                                                                 |
+| Value                    | Description                                                                                                                                                                                                         |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pinata API Key & Secret  | This is needed for the metadata to be uploaded to IPFS. Please see the [Pinata tutorial](../../setup/pinata.md) to set this up.                                                                                     |
+| Name                     | Name of the meta asset                                                                                                                                                                                              |
+| Description              | Description of the meta asset                                                                                                                                                                                       |
+| Image                    | Image src that will show up on Dapps and other front-ends                                                                                                                                                           |
+| Tags                     | An array of tags categorizing the asset                                                                                                                                                                             |
+| Max Supply               | The maximum instances for this asset that can ever be minted. If left at 0, it will automatically be converted to UINT256\_MAX.                                                                                     |
+| Royalty Receiver Address | The ethereum address that royalty fees will be sent to. If this is set to the Zero Address, the asset royalty will fall back to the default Content Contract royalty.                                               |
+| Royalty Rate             | The percent royalty the developer will receive when this asset is traded in a marketplace that supports royalty fees.                                                                                               |
+| Type                     | The Main type of meta asset. In this case, it should be set to Image                                                                                                                                                |
+| Subtype                  | The subtype of the meta asset. Please refer to the [Image Assets](../../../../developers/in-game-asset-framework/asset-types/image-assets.md) page to get more info on which subtype to select. Defaults to square. |
+| NSFW                     | Notifies game developers and users of explicit content. Please mark this correctly.                                                                                                                                 |
 
 **Audio Asset Data**
 
-| Value               | Description                                                                                                            |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Name                | The URI to the texture for the specific asset that will be used in-game. This may or may not be the same as the Image. |
-| Engine              | Height of the image in pixels                                                                                          |
-| Compression         | Width of the image in pixels                                                                                           |
-| Audio File URI      | File type of the image (we only support jpeg, svg, and png files                                                       |
-| Content Type        |                                                                                                                        |
-| Duration (s)        |                                                                                                                        |
-| Audio Channel Count |                                                                                                                        |
-| Sampling Rate       |                                                                                                                        |
+| Value               | Description                                                                                                                                                                                                                                                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Name                | name of the file. If packaged in an asset bundle, name of the audio clip in the asset bundle as shown using the Rawrshak's AssetBundle Window in Unity                                                                                                                                                                   |
+| Engine              | Engine that this file is packaged for. Currently only supports Unity.                                                                                                                                                                                                                                                    |
+| Compression         | This specifies the compression algorithm used when the audio file was packaged. This information is used by the game engine. For Unity, these values can be PCM, ADPCM, or Compressed. Compressed is the default common value. If the file is directly uploaded instead of packaged by the game engine, set this to RAW. |
+| Audio File URI      | The URI to the audio asset bundle or audio file for the specific asset that will be used in-game.                                                                                                                                                                                                                        |
+| Content Type        | File type of the image (we only support wav, mp3, ogg, and aiff files                                                                                                                                                                                                                                                    |
+| Duration (ms)       | Duration of the audio clip in milliseconds.                                                                                                                                                                                                                                                                              |
+| Audio Channel Count | Number of audio channels for the audio clip.                                                                                                                                                                                                                                                                             |
+| Sampling Rate (Hz)  | The sampling rate of audio clip.                                                                                                                                                                                                                                                                                         |
 
 {% hint style="info" %}
 The Audio Meta Asset Framework has some requirements for each type and subtype. If your asset doesn't comply with the framework requirements, it may be unloadable by games.&#x20;
@@ -59,9 +63,7 @@ The Audio Meta Asset Framework has some requirements for each type and subtype. 
 Games expect the asset to follow the framework in order for them to load it.
 {% endhint %}
 
-
-
-// add Audio Asset image
+![Create Audio Meta Asset information](<../../../../.gitbook/assets/image (40).png>)
 
 #### 5. Click _Create Asset_ and wait for the Metadata to propagate
 
@@ -71,5 +73,4 @@ Games expect the asset to follow the framework in order for them to load it.
 
 #### 6. Wait for the transaction to process and Verify
 
-![Verify asset was created.](<../../../../.gitbook/assets/image (36).png>)
-
+![Challenge Accepted audio file was added](<../../../../.gitbook/assets/image (31).png>)
