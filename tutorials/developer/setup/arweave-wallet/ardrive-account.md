@@ -14,9 +14,9 @@ In this tutorial, we'll be using the ArConnect to create an account.
 
 ![Select "Use ArConnect"](<../../../../.gitbook/assets/image (9) (1).png>)
 
-![Log in using ArConnect](<../../../../.gitbook/assets/image (12).png>)
+![Log in using ArConnect](<../../../../.gitbook/assets/image (12) (1).png>)
 
-![Accept the permissions](<../../../../.gitbook/assets/image (8).png>)
+![Accept the permissions](<../../../../.gitbook/assets/image (8) (1).png>)
 
 #### 2. Create an ArDrive Account
 

@@ -10,7 +10,7 @@ Rawrshak Developer Dapp: [https://alpha.rawrshak.io/#/](https://alpha.rawrshak.i
 
 #### 2. Select Developer Mode
 
-![Select Developer Mode](<../../../.gitbook/assets/image (12) (1) (1).png>)
+![Select Developer Mode](<../../../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 #### 3. Go to Store Page
 
@@ -34,7 +34,7 @@ Link: [dI\_5bBKqfDwLUHhQXu\_ubnnBi5f3DcpHQ\_oHmIky1QU](https://osh7s3asvj6dyc2qp
 
 ![Fill in Content Contract information and create contract](<../../../.gitbook/assets/image (16) (1) (1).png>)
 
-![Metadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (23) (1) (1).png>)
+![Metadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (23) (1) (1) (1).png>)
 
 {% hint style="info" %}
 Please refer to the Content Contract metadata for more information.
@@ -44,7 +44,7 @@ Please refer to the Content Contract metadata for more information.
 
 Use Metamask to approve the transaction.&#x20;
 
-![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1).png>)
+![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
 {% hint style="info" %}
 Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;

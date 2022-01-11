@@ -30,7 +30,7 @@ Note: These logical groupings are just as an example. As all the necessary objec
 
 Drag the "FRS" parent object into the Model folder to create a prefab.
 
-![Drag the object to the project folder to create a prefab](<../../../../.gitbook/assets/image (24) (1).png>)
+![Drag the object to the project folder to create a prefab](<../../../../.gitbook/assets/image (24) (1) (1).png>)
 
 #### 4. Set the Prefab's AssetBundle
 

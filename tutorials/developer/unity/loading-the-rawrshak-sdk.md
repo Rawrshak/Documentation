@@ -10,7 +10,7 @@ If Unity Hub is already installed, open the _Installs_ Tab and click the _Add_ b
 Rawrshak is only supported on 2020.3+ Unity versions.&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 Select Platform to install.
 

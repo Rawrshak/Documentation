@@ -24,7 +24,7 @@ Pinata gives you 1GB free of pinning service which is more than enough for uploa
 
 In the profile button on the top right, open the dropdown menu and select _API Keys_
 
-![API Keys](<../../../.gitbook/assets/image (20).png>)
+![API Keys](<../../../.gitbook/assets/image (20) (1).png>)
 
 #### 3. Set the API Key Settings and click Create
 

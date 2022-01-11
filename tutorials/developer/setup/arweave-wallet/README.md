@@ -18,13 +18,13 @@ Go to the [Arweave Faucet](https://faucet.arweave.net) and read the instructions
 
 #### 4. Wait to receive the 0.02 AR tokens
 
-![Wait for the 0.02 AR tokens to be sent to your wallet.](<../../../../.gitbook/assets/image (23).png>)
+![Wait for the 0.02 AR tokens to be sent to your wallet.](<../../../../.gitbook/assets/image (23) (1).png>)
 
 #### 5. Install ArConnect (Arweave's browser wallet)
 
 Go to the Chrome Web Store to add [ArConnect ](https://chrome.google.com/webstore/detail/arconnect/einnioafmpimabjcddiinlhmijaionap)to your browser.
 
-![Download the ArConnect extension](<../../../../.gitbook/assets/image (38).png>)
+![Download the ArConnect extension](<../../../../.gitbook/assets/image (38) (1).png>)
 
 **6. Create an ArConnect account**
 
@@ -38,7 +38,7 @@ Select _"Load Wallet(s)"_ and load the downloaded Arweave wallet file from step 
 
 ![Select "Load keyfile(s) from filesystem](<../../../../.gitbook/assets/image (26).png>)
 
-![Load the Wallet](<../../../../.gitbook/assets/image (35) (1).png>)
+![Load the Wallet](<../../../../.gitbook/assets/image (35) (1) (1).png>)
 
 #### 8. Verify the Arweave Wallet Loaded
 

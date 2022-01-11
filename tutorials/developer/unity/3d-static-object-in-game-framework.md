@@ -18,7 +18,7 @@ In this case, in the inspector, open the 'materials' tab and click the "**Extrac
 
 ![After clicking the "Extract Materials"](<../../../.gitbook/assets/image (5) (1).png>)
 
-![Extracted Materials and memapped to the mesh](<../../../.gitbook/assets/image (23) (1).png>)
+![Extracted Materials and memapped to the mesh](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 #### 2. Drag the 3D Asset into the Scene, set orientation and position
 
@@ -64,7 +64,7 @@ Select the HorizontalZObjectBounds to open it's inspector. Set the "**Target Obj
 
 Click **Load Target Object** button.
 
-![Set the Target Object](<../../../.gitbook/assets/image (7).png>)
+![Set the Target Object](<../../../.gitbook/assets/image (7) (1).png>)
 
 {% hint style="info" %}
 Make sure that the '**default**' asset has a _collider_ component.

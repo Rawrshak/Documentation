@@ -20,7 +20,7 @@ Once signed in, you'll be able to enter a valid address
 
 #### 4. Click "Claim" to receive tokens
 
-![Claim testnet tokens](<../../.gitbook/assets/image (35).png>)
+![Claim testnet tokens](<../../.gitbook/assets/image (35) (1).png>)
 
 #### 5. Verify Tokens Claim
 
@@ -36,8 +36,8 @@ Switch to Optimism Kovan by clicking the top right dropdown. If you can't find "
 
 Go back to the faucet.paradigm.xyz website and scroll down to the Optimistic Kovan section and click "Add to Metamask" next to the DAI contract address.
 
-![Click "Add to Metamask"](<../../.gitbook/assets/image (44).png>)
+![Click "Add to Metamask"](<../../.gitbook/assets/image (44) (1).png>)
 
 ![Add Token to metamask](<../../.gitbook/assets/image (39).png>)
 
-![Verify amount of testnet DAI in the wallet](<../../.gitbook/assets/image (43).png>)
+![Verify amount of testnet DAI in the wallet](<../../.gitbook/assets/image (43) (1).png>)

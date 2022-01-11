@@ -6,7 +6,7 @@
 
 #### 2. Select the Content Smart Contract
 
-![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1) (1).png>)
+![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1) (1) (1).png>)
 
 #### 3. Select the Asset to mint
 

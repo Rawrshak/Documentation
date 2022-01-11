@@ -1,4 +1,4 @@
-# Selling an Asset
+# Selling a Meta Asset
 
 #### 1. Go to Inventory Page in Developer Mode
 
@@ -18,7 +18,7 @@
 
 #### 5. Create and Deploy the Approval Transaction (if necessary)
 
-![Approve the NFT transfers for this smart contract and use metamask to approve transaction](<../../../.gitbook/assets/image (20) (1).png>)
+![Approve the NFT transfers for this smart contract and use metamask to approve transaction](<../../../.gitbook/assets/image (20) (1) (1).png>)
 
 #### 6. Click _Confirm Sell Order_ to create the sell order transaction and Deploy transaction
 
@@ -26,7 +26,7 @@
 
 #### 8. Verify Sell Order&#x20;
 
-![Verify Sell Order exists](<../../../.gitbook/assets/image (7) (1).png>)
+![Verify Sell Order exists](<../../../.gitbook/assets/image (7) (1) (1).png>)
 
 {% hint style="info" %}
 The Exchange subgraph takes a few seconds to a few minutes to update. Please wait for the transaction to succeed and propagate to the subgraph.
