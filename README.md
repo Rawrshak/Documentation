@@ -8,9 +8,9 @@ Rawrshak’s goal is to build an equitable and sustainable global gaming ecosyst
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Got a few minutes?** Check out a video overview of our product:
 
-// Todo: Create this 2 minute product video.
+{% embed url="https://youtu.be/tAUJwb-dN1w" %}
 
 {% hint style="info" %}
 **If you just want to keep track of the Rawrshak project, come join us!** Check out the **** [community-channels](rawrshak-platform/community-channels/ "mention") for more details.
