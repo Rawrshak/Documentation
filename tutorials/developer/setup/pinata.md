@@ -2,7 +2,7 @@
 
 Currently, the Rawrshak (Alpha release) is using IPFS to store the Meta Asset's metadata files. The reason that we are using IPFS instead of Arweave is because TheGraph, as of December 2021, does not yet support reading JSON files from Arweave. Our subgraphs read and process an asset's metadata in order to build a richer data set.&#x20;
 
-We therefore require a Pinata account when creating a Content Contract and Meta Asset when launched in the Developer Dapp. The plan is to eventually store all metadata on Arweave when The Graph <> Arweave integration is released.&#x20;
+We therefore require a Pinata account when creating Content Contracts and Meta Assets in the Developer Dapp. The plan is to eventually store all metadata on Arweave when The Graph <> Arweave integration is released.&#x20;
 
 In the meantime, please use this tutorial to create and use the Pinata account for IPFS.
 

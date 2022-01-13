@@ -28,7 +28,7 @@ Note: These logical groupings are just as an example. As all the necessary objec
 
 #### 3. Create a Prefab
 
-Drag the "FRS" parent object into the Model folder to create a prefab.
+Drag the "FRS" parent object into the Assets folder to create a prefab.
 
 ![Drag the object to the project folder to create a prefab](<../../../../.gitbook/assets/image (24) (1) (1).png>)
 
@@ -40,9 +40,9 @@ In the bottom of the Inspector, set the Assetbundle name. In this case, we set i
 
 #### 5. Create the Asset Bundle
 
-In the menu, select _Rawrshak -> Asset Bundles_
+On the top left, in the menu, select _Rawrshak -> Asset Bundles._
 
-This opens the Rawrshak's Asset Bundles creator (Asset Packager)
+This opens Rawrshak's Asset Bundles creator (Asset Packager).
 
 Select the desired _Build Target_ to build an asset package for. In this case, select _StandaloneWindows._
 

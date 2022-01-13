@@ -1,7 +1,7 @@
 # Litepapers
 
 {% hint style="info" %}
-**Important:** These papers are still in development and are non-binding. They may change over time and it is up to the development team on how it changes before release.
+**Important:** These papers are still in development and are non-binding. They may change over time and it is up to the development team how it changes before release.
 {% endhint %}
 
 ## Rawrshak Litepaper
@@ -20,14 +20,14 @@ The RAWR token is the governance and utility token that will be used in the ecos
 * Marketplace fee revenue share
 * Gamer community event rewards
 * Game developer partnerships
-* Content Security&#x20;
+* Content security&#x20;
 * Other future Rawrshak project use-cases
 
 Here's a [link ](https://github.com/Rawrshak/Rawrshak-Litepaper/blob/main/RawrshakTokenomics.v.1.5.pdf)to the RAWR tokenomics litepaper for more details.
 
 ## Rawrshak Governance
 
-The Rawrshak platform will be governed by the community. At full decentralization, the Rawrshak development team will only be an participating developer in the ecosystem.
+The Rawrshak platform will be governed by the community. At full decentralization, the Rawrshak development team will only be participating developers in the ecosystem.
 
 Holding the RAWR token bestows upon a user the responsibilities of governing the platform. It will also grant the holder the benefit of receiving Rawrshak rewards in the form of NFTs and token emissions.
 

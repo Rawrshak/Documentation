@@ -62,7 +62,7 @@ Lore assets can be used as unlockable information. They are used by game develop
 
 #### Requirement
 
-* `title` must be below 40 characters
+* `lore` must be below 40 characters
 * `description` must be below 5000 characters
 
 #### Sample

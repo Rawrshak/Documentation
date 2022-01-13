@@ -44,11 +44,11 @@ The Unity SDK is still in alpha and is subject to change during development. The
 
 Open the folder where you downloaded the Unity Package.&#x20;
 
-Drag and Drop the package in the Unity package in the Unity Window.
+Drag and drop the package in the Unity package in the Unity Window.
 
 ![Drop Package here.](<../../../.gitbook/assets/image (26) (1) (1) (1).png>)
 
-Select "All" and click "Import"
+Select "All" and click "Import".
 
 ![](<../../../.gitbook/assets/image (17) (1) (1) (1).png>)
 

@@ -1,6 +1,6 @@
 # Community Channels
 
-#### To stay up to date with the latest Rawrshak news and discuss with our community, come check out our communities! You're always welcome to come play with us.&#x20;
+#### To stay up to date with the latest Rawrshak news and to join our discussions, come check out our communities! You're always welcome to come play with us.&#x20;
 
 ### Discord
 

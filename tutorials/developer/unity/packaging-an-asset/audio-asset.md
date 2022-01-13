@@ -6,15 +6,15 @@
 
 #### 2. Set Asset bundle in the Audio Inspector
 
-In the bottom of the Inspector, set the Assetbundle name. In this case, we set it to "challengeaccepted"
+At the bottom of the Inspector, set the Assetbundle name. In this case, we set it to "challengeaccepted".
 
 ![Set Asset Bundle Name](<../../../../.gitbook/assets/image (32) (1).png>)
 
 #### 3. Create the Asset Bundle
 
-In the menu, select _Rawrshak -> Asset Bundles_
+On the top left, in the menu, select _Rawrshak -> Asset Bundles._
 
-This opens the Rawrshak's Asset Bundles creator (Asset Packager)
+This opens the Rawrshak's Asset Bundles creator (Asset Packager).
 
 Select the desired _Build Target_ to build an asset package for. In this case, select _StandaloneWindows._
 

@@ -18,11 +18,11 @@ In this case, in the inspector, open the 'materials' tab and click the "**Extrac
 
 ![After clicking the "Extract Materials"](<../../../.gitbook/assets/image (5) (1).png>)
 
-![Extracted Materials and memapped to the mesh](<../../../.gitbook/assets/image (23) (1) (1).png>)
+![Extracted Materials and remapped to the mesh](<../../../.gitbook/assets/image (23) (1) (1).png>)
 
 #### 2. Drag the 3D Asset into the Scene, set orientation and position
 
-Make sure the asset is facing the +Z axis and is initially positioned at (0,0,0)
+Make sure the asset is facing the +Z axis and is initially positioned at (0,0,0).
 
 ![Asset In the scene](<../../../.gitbook/assets/image (10) (1).png>)
 
@@ -42,7 +42,7 @@ Please note the Object Bounds script in the inspector.&#x20;
 
 #### 4. Resize and Orient 3d asset to fit inside the prefab
 
-#### 4.1 Add Box Collider to the model with the Mesh Renderer.
+#### 4.1 Add Box Collider to the model with the Mesh Renderer
 
 ![](<../../../.gitbook/assets/image (31) (2).png>)
 

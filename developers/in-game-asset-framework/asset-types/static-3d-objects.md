@@ -1,6 +1,6 @@
 # Static 3D Objects
 
-The Static 3D Object asset metadata framework creates a guide for static 3d object NFTs such as Trophies and Decorations. his contains the information for non-animated 3d asset NFTs. The proposed metadata format enables game developers to easily parse information for static 3d asset NFTs for in-game use. This static 3d object asset metadata framework should go in the <mark style="color:blue;">`assetProperties`</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> object in the Asset Metadata schema.
+The Static 3D Object asset metadata framework creates a guide for static 3d object NFTs such as Trophies and Decorations. This contains the information for non-animated 3d asset NFTs. The proposed metadata format enables game developers to easily parse information for static 3d asset NFTs for in-game use. This static 3d object asset metadata framework should go in the <mark style="color:blue;">`assetProperties`</mark> <mark style="color:blue;"></mark><mark style="color:blue;"></mark> object in the Asset Metadata schema.
 
 Static 3D Object Assets are assets that do not contain animation and must contain a model and materials packaged together.&#x20;
 
@@ -85,7 +85,7 @@ There isn't a clear asset specification when it comes to levels of fidelity. Cur
 
 ## Asset Requirement
 
-Static 3D objects have a few specific requirements. The asset must be oriented in the correct location and located at the correct position. Once the asset is loaded in-game, it will instantiated in the orientation, scaling, and location of a default asset.&#x20;
+Static 3D objects have a few specific requirements. The asset must be oriented in the correct location and located at the correct position. Once the asset is loaded in-game, it will be instantiated in the orientation, scaling, and location of a default asset.&#x20;
 
 #### Asset Orientation
 
@@ -97,7 +97,7 @@ The asset's prefab must be defaulted to the origin. The asset must be above the 
 
 #### Verification
 
-The Rawrshak Unity tools has testing bounding boxes that helps the asset creator determine if their 3d asset fits within the bounds of the expected asset shape. It will help make sure the asset is within the asset shape framework before it is set for packaging.
+The Rawrshak Unity tools has testing bounding boxes that help the asset creator determine if their 3d asset fits within the bounds of the expected asset shape. It will help make sure the asset is within the asset shape framework before it is set for packaging.
 
 ## Subtypes
 

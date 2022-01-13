@@ -14,4 +14,4 @@ The Rawrshak platform has several overall goals that we think is important to th
 * Provide Web3 tools and libraries for game engines
 * Use decentralized infrastructure to provide a permanent platform
 
-The goal is to build a decentralized gaming universe where asset ownership is permanent, uncensorable, and genuine. We want to build a Rawrshak community of avid gamers, dedicated game developers, and talented content creators that can spawn amazing tools and interesting idea.&#x20;
+The goal is to build a decentralized gaming universe where asset ownership is permanent, uncensorable, and genuine. We want to build a Rawrshak community of avid gamers, dedicated game developers, and talented content creators that can spawn amazing tools and interesting ideas.&#x20;

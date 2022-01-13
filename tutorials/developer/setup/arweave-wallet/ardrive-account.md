@@ -1,10 +1,10 @@
 # ArDrive Account
 
-ArDrive is a file system built on Arweave that makes it easy to store. ArDrive provides a fantastic user experience for managing uploaded files. We recommend ArDrive for easy management of your Meta Asset's data.
+ArDrive is a file system built on Arweave that makes storage simple and easy. ArDrive provides a fantastic user experience for managing uploaded files. We recommend ArDrive for easy management of your Meta Asset's data.
 
 **Assumptions:**
 
-* We assume you've created an Arweave Wallet and installed ArConnect. Please refer to the [Arweave Wallet tutorial](./) if not true.
+* We assume you've created an Arweave Wallet and installed ArConnect. Please refer to the [Arweave Wallet tutorial](./) if not.
 
 #### 1. Load Arweave Wallet on ArDrive
 

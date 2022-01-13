@@ -14,11 +14,11 @@ Optimism Kovan Network is the test network we are going to use for the Rawrshak 
 
 ![Select Networks](<../../.gitbook/assets/image (43) (1) (1).png>)
 
-#### 4. Add Optimistic Kovan Network
+#### 4. Click the "Add Network" button and fill information
 
 ![Click Add Network](<../../.gitbook/assets/image (13).png>)
 
-This opens up the Metamask Settings. Fill in the Optimism Kovan and click _Save_ to add the network.
+This opens up the Metamask Settings. Fill in the Optimism Kovan info and click _Save_ to add the network.
 
 | Parameter          | Value                                 |
 | ------------------ | ------------------------------------- |

@@ -10,11 +10,11 @@ In existing marketplaces, in order to buy many instances of an item, a user woul
 
 #### Create Buy and Sell Orders
 
-The marketplace gives the user to create buy orders for assets they need and set a price they're willing to pay for it. Users can also create sell orders for assets they'd like to sell. Orders can be for multiple instances of an item.
+The marketplace gives the user the ability to create buy orders for assets they need and set a price they're willing to pay for it. Users can also create sell orders for assets they'd like to sell. Orders can be for multiple instances of an item.
 
 #### Instant Buy/Sell
 
-The marketplace gives the user to instantly purchase X amount of items with it's order matching system. It gives the user the ability to set how many they want to buy and set the maximum they're willing to spend to acquire items.&#x20;
+The marketplace gives the user the ability to instantly purchase X amount of items with its order matching system. The user is able to set how many they want to buy and set the maximum they're willing to spend to acquire items.&#x20;
 
 {% embed url="https://alpha.rawrshak.io/#/marketplace" %}
 Go to the Rawrshak Marketplace!

@@ -1,6 +1,6 @@
 # Funding Testnet Wallet
 
-In order to transact on Ethereum and it's testnets, a wallet must hold some ETH. In order to get some testnet ETH (and testnet DAI) Optimism Kovan Network, we created this tutorial. We will use Paradigm's MultiFaucet in order to load our wallet with testnet ETH and DAI. Paradigm's faucet is great because it sends assets to your wallet on several test networks including Optimism Kovan.
+In order to transact on Ethereum and its testnets, a wallet must hold some ETH. In order to get some testnet ETH (and testnet DAI) on the Optimism Kovan Network, we created this tutorial. We will use Paradigm's MultiFaucet in order to load our wallet with testnet ETH and DAI. Paradigm's faucet is great because it sends assets to your wallet on several test networks including Optimism Kovan.
 
 #### **1. Go to the Paradigm MultiFaucet**
 
@@ -10,11 +10,11 @@ In order to transact on Ethereum and it's testnets, a wallet must hold some ETH.
 
 #### 2. Sign in with Twitter for Human Verification
 
-Once signed in, you'll be able to enter a valid address
+Once signed in, you'll be able to enter a valid address.
 
 ![After signing in to Twitter](<../../.gitbook/assets/image (6).png>)
 
-#### 3. Copy the Metamask Wallet from earlier
+#### 3. Copy your public address from the Metamask Wallet created earlier
 
 ![Copy Wallet from metamask](<../../.gitbook/assets/image (19).png>)
 
@@ -38,6 +38,6 @@ Go back to the faucet.paradigm.xyz website and scroll down to the Optimistic Kov
 
 ![Click "Add to Metamask"](<../../.gitbook/assets/image (44) (1).png>)
 
-![Add Token to metamask](<../../.gitbook/assets/image (39).png>)
+![Add Token to Metamask](<../../.gitbook/assets/image (39).png>)
 
 ![Verify amount of testnet DAI in the wallet](<../../.gitbook/assets/image (43) (1).png>)

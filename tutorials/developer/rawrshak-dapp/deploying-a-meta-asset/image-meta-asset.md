@@ -4,7 +4,7 @@ Please refer to the [Image Asset ](../../../../developers/in-game-asset-framewor
 
 #### 1. Find an image that you want to upload.
 
-![Rocketship - Note: This is just a random image off. We don't own this image at all.](../../../../.gitbook/assets/rocketship.jpg)
+![Rocketship - Note: This is just a random image. We don't own this image at all.](../../../../.gitbook/assets/rocketship.jpg)
 
 #### 2. Upload it to Arweave
 
@@ -32,7 +32,7 @@ Please check out [this tutorial ](../upload-data-to-arweave.md)in order to uploa
 | Image URI (Asset Data)        | The URI to the texture for the specific asset that will be used in-game. This may or may not be the same as the Image.                                                                                              |
 | Height in Pixels (Asset Data) | Height of the image in pixels                                                                                                                                                                                       |
 | Width in Pixels (Asset Data)  | Width of the image in pixels                                                                                                                                                                                        |
-| Content Type (Asset Data)     | File type of the image (we only support jpeg, svg, and png files                                                                                                                                                    |
+| Content Type (Asset Data)     | File type of the image (we only support jpeg, svg, and png files)                                                                                                                                                   |
 
 {% hint style="info" %}
 The Image Meta Asset Framework has some requirements for each type and subtype. If your asset doesn't comply with the framework requirements, it may be unloadable by games.&#x20;

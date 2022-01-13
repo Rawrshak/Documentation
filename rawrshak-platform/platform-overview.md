@@ -4,7 +4,7 @@ The Rawrshak Platform consists of several projects. Each project plays an import
 
 ## Deployable Smart Contracts
 
-Rawrshak developed easily deployable smart contracts that allows game developers to focus on developing their game. These smart contracts are deployable using our Developer Dapp. The Developer Dapp lets the developer deploy in-game assets into NFTs, mints the assets, and sell the assets. Managing their asset collections, asset royalties, and marketplace revenue is all done through the Dapp.&#x20;
+Rawrshak developed easy-to-deploy smart contracts that allow game developers to focus on developing their game. These smart contracts are deployable using our Developer Dapp. The Developer Dapp lets the developer deploy in-game assets as NFTs, mint the assets, and sell the assets. Managing their asset collections, asset royalties, and marketplace revenue is all done through the Dapp.&#x20;
 
 The ease of smart contract deployment lowers the barrier of entry for game developers and content creators. Using the Rawrshak smart contracts gives developers access to future on-chain gaming mechanisms developed for the Rawrshak ecosystem. The Rawrshak community will also be able to contribute and create on-chain ecosystem projects that take advantage of these gaming building blocks.
 
@@ -22,7 +22,7 @@ The Rawrshak marketplace will be optimized for gamers and game-centric actions s
 
 ## Public Game Engine SDKs & Tools
 
-Traditional game developers have many hurdles to overcome before they can fully integrating with the decentralized gaming space. One of the major issues is the lack of Web3 tools and libraries for game engines. Most game engine SDKs are still in development and there is little infrastructure. Game developers either have to write their own libraries or they need to wait for the public game engines to adopt.&#x20;
+Traditional game developers have many hurdles to overcome before they can fully integrate with the decentralized gaming space. One of the major issues is the lack of Web3 tools and libraries for game engines. Most game engine SDKs are still in development and there is little infrastructure. Game developers either have to write their own libraries or they need to wait for the public game engines to adopt.&#x20;
 
 Our goals are to develop these missing pieces and encourage the ecosystem to develop libraries and tools for each other. Rawrshak is working on public game engines that will allow game developers to easily work with the Rawrshak platform.
 
@@ -36,6 +36,6 @@ On the technical side, the pathway to asset interoperability is also an uphill b
 
 ## Future Projects
 
-The Rawrshak platform is based on the promise of a decentralized gaming universe and asset interoperability. The Rawrshak platform and it's community will continue to work on interesting projects for the ecosystem that will increase the ecosystem's value. Rawrshak will support creators and community managers in growing their spaces. Rawrshak will continue developing on-chain gaming mechanics that advance the gaming space in ways we haven't yet dreamed of.&#x20;
+The Rawrshak platform is based on the promise of a decentralized gaming universe and asset interoperability. The Rawrshak platform and its community will continue to work on interesting projects for the ecosystem that will increase the ecosystem's value. Rawrshak will support creators and community managers in growing their spaces. Rawrshak will continue developing on-chain gaming mechanics that advance the gaming space in ways we haven't yet envisioned.&#x20;
 
 Please stay tuned as we build the gamer paradise we've always dreamed of!

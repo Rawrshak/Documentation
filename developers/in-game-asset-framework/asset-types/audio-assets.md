@@ -62,7 +62,7 @@ Audio NFTs can be used in many different manners such as rewarding players with 
 
 ## Subtypes
 
-We define five Audio-based NFT frameworks, each with a different use case. Gamers should expect them to be used in a game for its designated use. However, these <mark style="color:blue;">`subtypes`</mark> are merely guides for game developers and are free to use them wherever they want to in their game.
+We define five Audio-based NFT frameworks, each with a different use case. Gamers should expect them to be used in a game for its designated use. However, these <mark style="color:blue;">`subtypes`</mark> are merely guides for game developers, they are free to use them wherever they want to in their game.
 
 ### Sound Effect Subtype
 
@@ -101,7 +101,7 @@ Shout assets are short character lines used for quick taunts, player communicati
 
 #### Requirement
 
-* Maximum `duration` of 2 second.
+* Maximum `duration` of 2 seconds.
 * When loaded by a game, it should be kept in memory as they can be used by the player at any time.
 
 #### Sample
@@ -132,7 +132,7 @@ Character line assets are longer character lines used for taunts, reactions, or 
 
 #### Requirement
 
-* Maximum `duration` of 10 second.
+* Maximum `duration` of 10 seconds.
 
 #### Sample
 
@@ -164,7 +164,7 @@ This asset is loaded per gamer and is not shared during gameplay. They are loade
 
 #### Requirement
 
-* Maximum `duration` of 300 second.
+* Maximum `duration` of 300 seconds.
 
 #### Sample
 

@@ -35,7 +35,7 @@ This may take somewhere between a 5 minutes to a few hours.
 
 Data Transaction ID: [TAPvrk0\_cEGhoeb9eYe96MIVp3lbpyqH7RlM6owfg3k](https://jqb67lsnh5yedinb436xtb555dbblj3zlotsvb7ndfgovda7qn4q.arweave.net/TAPvrk0\_cEGhoeb9eYe96MIVp3lbpyqH7RlM6owfg3k)
 
-You can verify that the file has been processed and uploaded when the _Orange_ status has turned to _Green._&#x20;
+You can verify that the file has been processed and uploaded when the _Orange_ pending status has turned to _Green._&#x20;
 
 The Data Transaction ID will be used when creating a Content Smart Contract or Asset in the NFT Launcher.
 

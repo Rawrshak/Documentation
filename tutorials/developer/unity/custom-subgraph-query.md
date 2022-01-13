@@ -6,7 +6,7 @@
 * A Unity project with the Rawrshak SDK installed
 
 {% hint style="info" %}
-Our examples are only for Rawrshak's Contents and Exchange subgraphs. A developer can create custom queries for our subgraphs.
+Our examples are only for Rawrshak's Content and Exchange subgraphs. A developer can create custom queries for our subgraphs.
 
 A developer can also retrofit this tutorial for any GraphQL source or any subgraph.
 {% endhint %}
@@ -86,10 +86,10 @@ public class GetAssetName: QueryBase
 Notes:
 
 * This script should inherit from `QueryBase`
-* `queryWithArgs` format string should match the number of input in the `GetAssetName.txt`
+* `queryWithArgs` format string should match the number of inputs in the `GetAssetName.txt`
 * `Subgraph` object is in the Rawrshak SDK. If pointing to a different subgraph, replace this with the correct subgraph source uri
-* The ReturnData object should match the serializable json object returned by the query.
-* Please check out the [Content ](../../../developers/rawrshak-subgraphs/entities/content-subgraph.md)and [Exchange ](../../../developers/rawrshak-subgraphs/entities/exchange-subgraph.md)Pages for more info.
+* The ReturnData object should match the serializable json object returned by the query
+* Please check out the [Content ](../../../developers/rawrshak-subgraphs/entities/content-subgraph.md)and [Exchange ](../../../developers/rawrshak-subgraphs/entities/exchange-subgraph.md)Pages for more info
 
 #### 5. Use the Custom Query
 

@@ -8,7 +8,7 @@ The Rawrshak platform's success depends on the balance between all of its commun
 
 ### Gamers
 
-Gamers are the core community members that will boost the ecosystem as far as it will go. They will have the strongest say in the direction of the platform. Their goal is to have fun, acquire interesting assets, and show off their skills and achievements. Gamers can also help fund community projects and games that they think is interesting! Ideally, gamer participation in the development of the platform becomes the backbone of Rawrshak.
+Gamers are the core community members that will boost the ecosystem as far as it will go. They will have the strongest say in the direction of the platform. Their goal is to have fun, acquire interesting assets, and brandish their skills and achievements. Gamers can also help fund community projects and games that they think is interesting! Ideally, gamer participation in the development of the platform becomes the backbone of Rawrshak.
 
 ### Game Developers
 
@@ -16,7 +16,7 @@ Game developers are the core creating members of the platform. Their goal is to 
 
 ### Content Creators
 
-Content creators are important because they bring the flare and the boom to the ecosystem. Each content creator have their own reasons for using the Rawrshak platform. Content creators are the pioneers that dare to expand the Rawrshak ecosystem and help differentiate Rawrshak from any other gaming ecosystem out there. Content creator participation in the platform is integral to growing the ecosystem in ways that cannot be predicted.
+Content creators are important because they bring the flare and the boom to the ecosystem. Each content creator has their own reasons for using the Rawrshak platform. Content creators are the pioneers that venture to expand the Rawrshak ecosystem and help differentiate Rawrshak from any other gaming ecosystem out there. Content creator participation in the platform is integral to growing the ecosystem in ways we cannot predict.
 
 ### Brand Creators and Community Managers
 
