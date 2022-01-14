@@ -48,12 +48,7 @@ A total of 100,000,000 $RAWR tokens will be minted.
     * Marketplace and gaming system Incentives
     * Community growth incentives and community events(game developer, content creators, gamer acquisition)
     * Bug bounties
-* **20%** (20,000,000 RAWR) is allocated to the core development team, advisors, and partners
-  * **16.8%** (16,800,000 RAWR) - Development team
-  * **1.2%** (1,200,000 RAWR) - Advisers and early supporters
-  * **2.0%** (2,000,000 RAWR) - Partners
-* **10%** (10,000,000 RAWR) allocated to a Future Seed Round\*
-  * As of 1/12/2022, this has not yet taken place. For inquiries, please reach out to **contact@rawrshak.io**
+* **30%** (20,000,000 RAWR) is allocated to the development of the project.
 
 ## More Info
 
