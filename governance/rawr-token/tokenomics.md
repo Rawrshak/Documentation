@@ -48,7 +48,7 @@ A total of 100,000,000 $RAWR tokens will be minted.
     * Marketplace and gaming system Incentives
     * Community growth incentives and community events(game developer, content creators, gamer acquisition)
     * Bug bounties
-* **30%** (20,000,000 RAWR) is allocated to the development of the project.
+* **30%** (30,000,000 RAWR) is allocated to the development of the project.
 
 ## More Info
 
