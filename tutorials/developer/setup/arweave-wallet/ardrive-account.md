@@ -18,7 +18,7 @@ In this tutorial, we'll be using the ArConnect to create an account.
 
 ![Accept the permissions](<../../../../.gitbook/assets/image (8) (1).png>)
 
-#### 2. Create an ArDrive Account
+#### 2. Create an ArDrive account
 
 ![Create a new ArDrive account](<../../../../.gitbook/assets/image (42) (1).png>)
 

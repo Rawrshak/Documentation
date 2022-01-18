@@ -6,7 +6,7 @@
 
 ## Rawrshak Litepaper
 
-The Rawrshak litepaper discusses the overall vision for the Rawrshak platform. It goes into detail about the why Rawrshak was created, who it's for, and how the project is being implemented. It gives insights on the roadmap for Rawrshak.&#x20;
+The Rawrshak litepaper discusses the overall vision for the Rawrshak platform. It goes into detail about why Rawrshak was created, who it's for, and how the project is being implemented. It gives insights on the roadmap for Rawrshak.&#x20;
 
 It also discusses future projects in the pipeline for the platform that increases the value of the ecosystem.&#x20;
 

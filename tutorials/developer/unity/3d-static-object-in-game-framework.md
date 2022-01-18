@@ -60,7 +60,7 @@ The "Collider" should, as much as possible, be tight to the asset. Feel free to 
 
 Make sure both HorizontalZObjectBounds and SCI\_FRS\_13\_HD objects are enabled.
 
-Select the HorizontalZObjectBounds to open it's inspector. Set the "**Target Object**" to the object with the box collider. In this case, the '**default'** object inside SCI\_FRS\_13\_HD.&#x20;
+Select the HorizontalZObjectBounds to open it's inspector. Set the "**Target Object**" to the object with the box collider. In this case, the '**default'** object inside SCI\_FRS\_13\_HD.
 
 Click **Load Target Object** button.
 
@@ -78,7 +78,7 @@ If the asset intersects or is completely outside the object bounds, it will turn
 
 ![Invalid Asset](<../../../.gitbook/assets/image (30) (2).png>)
 
-Make sure that the asset is oriented correctly and is scaled to completely fit inside the bounding box.&#x20;
+Make sure that the asset is oriented correctly and is scaled to completely fit inside the bounding box. The Objects bounds must become clear before you continue.
 
 ![Fits inside the Bounding Box](<../../../.gitbook/assets/image (11) (2).png>)
 

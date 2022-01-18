@@ -22,13 +22,13 @@ Pinata gives you 1GB free of pinning service which is more than enough for uploa
 
 #### 2. Create an API Key
 
-In the profile button on the top right, open the dropdown menu and select _API Keys_
+In the profile button on the top right, open the dropdown menu and select _API Keys._
 
 ![API Keys](<../../../.gitbook/assets/image (20) (1).png>)
 
 #### 3. Set the API Key Settings and click Create
 
-Set "Admin" to true and set Key Name
+Set "Admin" to true and set Key Name.
 
 ![Set API Key Settings](<../../../.gitbook/assets/image (19) (1).png>)
 
@@ -36,7 +36,7 @@ Set "Admin" to true and set Key Name
 
 ![Click "Copy All" and paste the keys somewhere safe.](<../../../.gitbook/assets/image (15).png>)
 
-The **API Key** and **API Secret** will be used in the Rawrshak app. Please keep these items safe. They will not be accessible after you click "Done"
+The **API Key** and **API Secret** will be used in the Rawrshak app. Please keep these items safe. They will not be accessible after you click "Done".
 
 #### 5. \[Optional] Revoking API Key Access
 

@@ -4,19 +4,19 @@ The Rawrshak Platform consists of several projects. Each project plays an import
 
 ## Deployable Smart Contracts
 
-Rawrshak developed easy-to-deploy smart contracts that allow game developers to focus on developing their game. These smart contracts are deployable using our Developer Dapp. The Developer Dapp lets the developer deploy in-game assets as NFTs, mint the assets, and sell the assets. Managing their asset collections, asset royalties, and marketplace revenue is all done through the Dapp.&#x20;
+Rawrshak developed easy-to-deploy smart contracts that allow game developers to focus on developing their game. These smart contracts are deployable using our Developer Dapp. The Developer Dapp lets developers deploy in-game assets as NFTs, mint the assets, and sell the assets. Managing asset collections, asset royalties, and marketplace revenue is all done through the Dapp.&#x20;
 
 The ease of smart contract deployment lowers the barrier of entry for game developers and content creators. Using the Rawrshak smart contracts gives developers access to future on-chain gaming mechanisms developed for the Rawrshak ecosystem. The Rawrshak community will also be able to contribute and create on-chain ecosystem projects that take advantage of these gaming building blocks.
 
 ## Ecosystem Subgraphs
 
-All assets that are created on the Rawrshak platform are indexed into the public Rawrshak subgraphs. Rawrshak community developers can access these subgraphs and create their own queries for data analysis. Game developers can access and create their own queries using our provided libraries. This allows for easy data querying for game developers, web developers, and other tools developers.
+All assets that are created on the Rawrshak platform are indexed into the public Rawrshak subgraphs. Rawrshak community developers can access these subgraphs and create their own queries for data analysis. Game developers can access and create their own queries using our provided libraries. This allows for easy data querying for game developers, web developers, and other tool developers.
 
 In addition to the content subgraphs, we are also making public the marketplace subgraphs. Anyone is free to access marketplace information and provide interesting gamer and game developer dashboards.
 
 ## Gaming Marketplace
 
-Existing marketplaces aren't designed for games. They have high fees and have friction for buying mundane non-unique assets. Not all assets need to be unique and require to be bought individually.&#x20;
+Existing marketplaces aren't designed for games. They have high fees and have friction for buying mundane non-unique assets. Not all assets need to be unique nor be required to be bought individually.&#x20;
 
 The Rawrshak marketplace will be optimized for gamers and game-centric actions such as buying items in bulk, instant purchasing, instant selling, orderbook matching, etc. Over time, the marketplace will look for ways to improve based on the gamer community's feedback.
 
@@ -36,6 +36,6 @@ On the technical side, the pathway to asset interoperability is also an uphill b
 
 ## Future Projects
 
-The Rawrshak platform is based on the promise of a decentralized gaming universe and asset interoperability. The Rawrshak platform and its community will continue to work on interesting projects for the ecosystem that will increase the ecosystem's value. Rawrshak will support creators and community managers in growing their spaces. Rawrshak will continue developing on-chain gaming mechanics that advance the gaming space in ways we haven't yet envisioned.&#x20;
+The Rawrshak platform is based on the promise of a decentralized gaming universe and asset interoperability. The Rawrshak platform and its community will continue to work on interesting projects for the ecosystem that will increase the ecosystem's value. Rawrshak will support creators and community managers in growing their spaces. Rawrshak will continue developing on-chain gaming mechanics that advance the gaming space in ways people have only yet envisioned.&#x20;
 
 Please stay tuned as we build the gamer paradise we've always dreamed of!

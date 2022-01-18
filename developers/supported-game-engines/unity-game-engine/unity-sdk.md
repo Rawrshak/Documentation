@@ -1,6 +1,6 @@
 # Unity SDK
 
-The Rawrshak Unity SDK is an unity asset package that contains libraries that help the game developer integrate their game to blockchain technologies and the Rawrshak platform infrastructure. The Rawrshak Unity SDK has a dependency on ChainSafe's Gaming SDK and WalletConnect for Unity.&#x20;
+The Rawrshak Unity SDK is a unity asset package that contains libraries that help the game developer integrate their game to blockchain technologies and the Rawrshak platform infrastructure. The Rawrshak Unity SDK has a dependency on ChainSafe's Gaming SDK and WalletConnect for Unity.&#x20;
 
 ### WalletConnect Integration and Wallet Management
 
@@ -16,7 +16,7 @@ The Asset Minter library gives the game the ability to mint assets unlocked by t
 
 ### Asset Downloader
 
-The Asset Downloader library gives the developer the ability to easily download metadata and assets from Arweave (or other decentralized storage) or IPFS. It also caches the asset for future use if necessary.
+The Asset Downloader library gives the developer the ability to easily download metadata and assets from Arweave (or other decentralized storages) or IPFS. It also caches the asset for future use if necessary.
 
 ### Asset Loader
 

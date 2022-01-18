@@ -22,4 +22,4 @@ In the future, the developer dapp will also give access to Rawrshak's on-chain g
 * Lootboxing
 * NFT Personalization & Customization
 
-The developer dapp is where game developers will interface with any future Rawrshak project. New projects are entirely optional to developers and they are free to integrate it with their game as they see fit.&#x20;
+The developer dapp is where game developers will interface with any future Rawrshak project. New projects are entirely optional to developers, and they are free to integrate it with their game as they see fit.&#x20;

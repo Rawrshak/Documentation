@@ -18,9 +18,9 @@ Rawrshak plans to launch a decentralized autonomous organization, the Rawrshak D
 
 ### 2. Incentives
 
-The $RAWR token will be used to grow the ecosystem and incentivize gamers, content creators, and game developers to use the project. The Rawrshak DAO will sponsor events, fund games, and fund ecosystem projects that adds value to the ecosystem using the $RAWR token. Rawrshak can partner with game developers to help incentivize gamers to increase liquidity of assets in the ecosystem through minting rewards and marketplace rewards.
+The $RAWR token will be used to grow the ecosystem and incentivize gamers, content creators, and game developers to use the project. The Rawrshak DAO will sponsor events, fund games, and fund ecosystem projects that add value to the ecosystem using the $RAWR token. Rawrshak can partner with game developers to help incentivize gamers to increase liquidity of assets in the ecosystem through minting rewards and marketplace rewards.
 
-$RAWR tokens will also be used to incentivize marketplace usage and increase volumes.&#x20;
+$RAWR tokens will also be used to incentivize marketplace usage and increase volume.&#x20;
 
 ### 3. Platform Fees distribution
 
@@ -34,9 +34,9 @@ Future on-chain gaming mechanisms may require the use of RAWR tokens. Future Raw
 
 ## Launch
 
-$RAWR will be launched on the Ethereum network and will be implemented as an ERC20 token. The token contract will not be upgradable and it will be stable. There will be no inflation. The goal is to have a relatively fair distribution mechanism.
+$RAWR will be launched on the Ethereum network and will be implemented as an ERC20 token. The token contract will not be upgradable, and it will be stable. There will be no inflation. The goal is to have a relatively fair distribution mechanism.
 
-The $RAWR token will be launched on Optimism first and distribute tokens there. We hope to later expand to Arbitrum and Polygon L2s.
+The $RAWR token will be launched on Optimism first and tokens will be distributed there. We hope to later expand to Arbitrum and Polygon L2s.
 
 ## Allocation
 
@@ -49,6 +49,21 @@ A total of 100,000,000 $RAWR tokens will be minted.
     * Community growth incentives and community events(game developer, content creators, gamer acquisition)
     * Bug bounties
 * **30%** (20,000,000 RAWR) is allocated to the development of the project.
+
+<!---->
+
+* **70%** (70,000,000 RAWR) is allocated for the community, managed by the RawrDAO
+  * The treasury will be allocated towards these goals:
+    * Staking and governance participation
+    * Marketplace and gaming system incentives
+    * Community growth incentives and community events (game developer, content creators, gamer acquisition)
+    * Bug bounties
+* **20%** (20,000,000 RAWR) is allocated to the core development team, advisors, and partners
+  * **16.8%** (16,800,000 RAWR) - Development team
+  * **1.2%** (1,200,000 RAWR) - Advisers and early supporters
+  * **2.0%** (2,000,000 RAWR) - Partners
+* **10%** (10,000,000 RAWR) allocated to a Future Seed Round\*
+  * As of 1/12/2022, this has not yet taken place. For inquiries, please reach out to **contact@rawrshak.io**
 
 ## More Info
 

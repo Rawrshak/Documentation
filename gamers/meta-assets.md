@@ -8,7 +8,7 @@ For more information, check out this article on Meta Assets \[Todo: link to Meta
 
 NFT stands for non-fungible token. It is a digital token that exists on the blockchain to record proof of ownership for the person holding it. Each token is completely unique because it has its own metadata that cannot be replicated or replaced for another.&#x20;
 
-Unfortunately, this is very limiting for video games. Not all video game assets _need_ be represented as a unique token. For some assets, it is more efficient to use fungible tokens that link to the same metadata but can be minted and distributed to many users.&#x20;
+Unfortunately, this is very limiting for video games. Not all video game assets _need_ to be represented as a unique token. For some assets, it is more efficient to use fungible tokens that link to the same metadata but can be minted and distributed to many users.&#x20;
 
 Because of this, Meta Asset tokens are designed to be semi-fungible. Semi-fungible tokens combine the features of fungible and non-fungible tokens. They represent ownership over items, like NFTs, but all the same items are fungible. Throughout an asset's lifetime, it can become either a fungible or a non-fungible asset.&#x20;
 
@@ -29,11 +29,11 @@ These are the currently supported asset types:
 
 #### Future Asset Types
 
-Some future assets will come in future versions. They may be more complicated and thus require more thought, development time, and feedback from the community. There are no time tables as to when these assets frameworks will be available. Please join the Rawrshak Discord for up-to-date information.
+Some assets types will come in future versions. They may be more complicated and thus require more thought, development time, and feedback from the community. There are no timetables as to when these assets frameworks will be available. Please join the Rawrshak Discord for up-to-date information.
 
 * Character Skins
-* Cosmetics (Clothes, avatar changes, etc)
-* Animation (Emotes, Taunts, etc)
-* Attachables (weapons, backpacks, etc.)
+* Cosmetics (clothes, avatar changes, etc)
+* Animations (emotes, taunts, etc)
+* Attachables (weapons, backpacks, etc)
 * Consumables
 * Access Tokens&#x20;

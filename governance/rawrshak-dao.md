@@ -4,7 +4,7 @@
 The information on this page is not final and is subject to change before the actual token launch announcement. This is only meant to give the user information regarding the current thoughts of the Rawrshak development team.
 {% endhint %}
 
-The Rawrshak platform will be governed in a decentralized manner through the Rawrshak Decentralized Autonomous Organization (RawrDAO). This allows gives all stakeholders the opportunity to participate in the future of Rawrshak.
+The Rawrshak platform will be governed in a decentralized manner through the Rawrshak Decentralized Autonomous Organization (RawrDAO). This grants all stakeholders the opportunity to participate in the future of Rawrshak.
 
 #### Responsibilities
 
