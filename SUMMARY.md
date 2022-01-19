@@ -46,7 +46,7 @@
     * [Deploying a Meta Asset](tutorials/developer/rawrshak-dapp/deploying-a-meta-asset.md)
       * [Image Meta Asset](tutorials/developer/rawrshak-dapp/deploying-a-meta-asset/image-meta-asset.md)
       * [Audio Meta Asset](tutorials/developer/rawrshak-dapp/deploying-a-meta-asset/audio-meta-asset.md)
-      * [🚧 Static 3D Object Meta Asset](tutorials/developer/rawrshak-dapp/deploying-a-meta-asset/static-3d-object-meta-asset.md)
+      * [Static 3D Object Meta Asset](tutorials/developer/rawrshak-dapp/deploying-a-meta-asset/static-3d-object-meta-asset.md)
     * [Updating a Meta Asset's Metadata](tutorials/developer/rawrshak-dapp/updating-a-meta-assets-metadata.md)
     * [Minting a Meta Asset](tutorials/developer/rawrshak-dapp/minting-a-meta-asset.md)
     * [Selling a Meta Asset](tutorials/developer/rawrshak-dapp/selling-a-meta-asset.md)

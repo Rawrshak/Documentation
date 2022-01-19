@@ -30,14 +30,14 @@ Once signed in, you'll be able to enter a valid address.
 Switch to Optimism Kovan by clicking the top right dropdown. If you can't find "Optimism Kovan", please check out the [Adding Optimism Kovan Network tutorial](adding-optimism-kovan-network.md).
 {% endhint %}
 
-![1 ETH received on Optimism Kovan test network](<../../.gitbook/assets/image (3).png>)
+![1 ETH received on Optimism Kovan test network](<../../.gitbook/assets/image (3) (1).png>)
 
 #### 6. \[Optional] Add DAI to the wallet
 
 Go back to the faucet.paradigm.xyz website and scroll down to the Optimistic Kovan section and click "Add to Metamask" next to the DAI contract address.
 
-![Click "Add to Metamask"](<../../.gitbook/assets/image (44) (1).png>)
+![Click "Add to Metamask"](<../../.gitbook/assets/image (44) (1) (1).png>)
 
 ![Add Token to Metamask](<../../.gitbook/assets/image (39).png>)
 
-![Verify amount of testnet DAI in the wallet](<../../.gitbook/assets/image (43) (1).png>)
+![Verify amount of testnet DAI in the wallet](<../../.gitbook/assets/image (43) (1) (1).png>)

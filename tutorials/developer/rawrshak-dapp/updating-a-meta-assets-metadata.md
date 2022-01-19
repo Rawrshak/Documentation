@@ -2,15 +2,15 @@
 
 #### 1. Go to Store Page in Developer Mode
 
-![Click the Store Page](<../../../.gitbook/assets/image (25) (1) (1) (1).png>)
+![Click the Store Page](<../../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
 
 #### 2. Select the Content Smart Contract
 
-![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1) (1) (1).png>)
+![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)
 
 #### 3. Select an Asset to edit
 
-![Selecting Smol Ina asset](<../../../.gitbook/assets/image (20).png>)
+![Selecting Smol Ina asset](<../../../.gitbook/assets/image (20) (1).png>)
 
 #### 4. Click "Edit Metadata" button
 
@@ -34,6 +34,6 @@ In this case, we're updating the "Name" of the prefab inside the uploaded AssetB
 
 7\. Verify the metadata
 
-![Info in the metadata is read by TheGraph properly](<../../../.gitbook/assets/image (43).png>)
+![Info in the metadata is read by TheGraph properly](<../../../.gitbook/assets/image (43) (1).png>)
 
 If the underlined information is blank, it means the subgraph was not able to process the asset. Please edit the metadata again (send the same 'edit metadata' transaction).

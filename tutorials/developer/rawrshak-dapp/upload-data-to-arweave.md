@@ -11,7 +11,7 @@
 
 ArDrive: [https://app.ardrive.io](https://app.ardrive.io/#/sign-in)
 
-![Log In to ArDrive](<../../../.gitbook/assets/image (14) (1).png>)
+![Log In to ArDrive](<../../../.gitbook/assets/image (14) (1) (1).png>)
 
 #### 2. Create the Folders for your file management
 
@@ -19,7 +19,7 @@ ArDrive: [https://app.ardrive.io](https://app.ardrive.io/#/sign-in)
 
 #### 3. Upload the Asset Packages or Asset Files
 
-![Click Upload File](<../../../.gitbook/assets/image (4) (1) (1).png>)
+![Click Upload File](<../../../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ![Upload File](<../../../.gitbook/assets/image (26) (1) (1).png>)
 

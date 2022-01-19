@@ -4,9 +4,9 @@
 
 Rawrshak Developer Dapp: [https://alpha.rawrshak.io/#/](https://alpha.rawrshak.io/#/)
 
-![Open the Wallet Tab](<../../../.gitbook/assets/image (21) (1) (1).png>)
+![Open the Wallet Tab](<../../../.gitbook/assets/image (21) (1) (1) (1).png>)
 
-![Click the Connect Button and Connect Metamask Wallet](<../../../.gitbook/assets/image (13) (1) (1) (1).png>)
+![Click the Connect Button and Connect Metamask Wallet](<../../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
 
 #### 2. Select Developer Mode
 
@@ -16,7 +16,7 @@ Rawrshak Developer Dapp: [https://alpha.rawrshak.io/#/](https://alpha.rawrshak.i
 
 Store Page: [https://alpha.rawrshak.io/#/store](https://alpha.rawrshak.io/#/store)
 
-![Click the Store Page](<../../../.gitbook/assets/image (25) (1) (1) (1).png>)
+![Click the Store Page](<../../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
 
 #### 4. Click "_New Smart Contract"_
 
@@ -44,7 +44,7 @@ Please refer to the Content Contract metadata for more information.
 
 Use Metamask to approve the transaction.&#x20;
 
-![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;
@@ -54,7 +54,7 @@ Once you click _Create_, it takes 60 seconds for the metadata to be propagated b
 
 ![Content Contract deployed properly in the Store Page](<../../../.gitbook/assets/image (5) (1) (1).png>)
 
-![Content Contract information](<../../../.gitbook/assets/image (4) (1) (1) (1).png>)
+![Content Contract information](<../../../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 The Content subgraph takes a few seconds to a few minutes to update. Please wait for the transaction to propagate.

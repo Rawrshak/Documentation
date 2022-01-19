@@ -6,11 +6,11 @@ An Arweave Wallet is required in order to upload Meta Asset data to Arweave, a d
 
 Go to the [Arweave Faucet](https://faucet.arweave.net) and read the instructions. Click _Continue_ to proceed.
 
-![Go to faucet.arweave.net](<../../../../.gitbook/assets/image (30) (1).png>)
+![Go to faucet.arweave.net](<../../../../.gitbook/assets/image (30) (1) (1).png>)
 
 #### 2. Download and save your wallet key file
 
-![Download your newly created Arweave wallet file](<../../../../.gitbook/assets/image (34) (1).png>)
+![Download your newly created Arweave wallet file](<../../../../.gitbook/assets/image (34) (1) (1).png>)
 
 #### 3. Post the Human Verification tweet
 
@@ -28,13 +28,13 @@ Go to the Chrome Web Store to add [ArConnect ](https://chrome.google.com/webstor
 
 **6. Create an ArConnect account**
 
-![Create an ArConnect account](<../../../../.gitbook/assets/image (4) (1).png>)
+![Create an ArConnect account](<../../../../.gitbook/assets/image (4) (1) (1).png>)
 
 #### 7. Load the Arweave Wallet
 
 Select _"Load Wallet(s)"_ and load the downloaded Arweave wallet file from step 2.&#x20;
 
-![Click Load Wallet](<../../../../.gitbook/assets/image (27) (1).png>)
+![Click Load Wallet](<../../../../.gitbook/assets/image (27) (1) (1).png>)
 
 ![Select "Load keyfile(s) from filesystem](<../../../../.gitbook/assets/image (26).png>)
 
@@ -44,6 +44,6 @@ Select _"Load Wallet(s)"_ and load the downloaded Arweave wallet file from step 
 
 The Arweave wallet should now be accessible in the ArConnect extension.
 
-![Arweave Wallet Loaded](<../../../../.gitbook/assets/image (28) (1).png>)
+![Arweave Wallet Loaded](<../../../../.gitbook/assets/image (28) (1) (1).png>)
 
 #### Go to the next tutorial to learn how to load the Arweave Wallet to your ArDrive account for easy asset management.

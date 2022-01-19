@@ -20,11 +20,11 @@ In this tutorial, we'll be using the ArConnect to create an account.
 
 #### 2. Create an ArDrive account
 
-![Create a new ArDrive account](<../../../../.gitbook/assets/image (42) (1).png>)
+![Create a new ArDrive account](<../../../../.gitbook/assets/image (42) (1) (1).png>)
 
 #### 3. Verify ArDrive account was connected
 
-![Confirm your wallet is logged in with the account](<../../../../.gitbook/assets/image (14).png>)
+![Confirm your wallet is logged in with the account](<../../../../.gitbook/assets/image (14) (1).png>)
 
 {% hint style="info" %}
 Load the Arweave wallet with AR tokens in order to upload and store data.

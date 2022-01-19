@@ -1,14 +1,6 @@
 # Audio Meta Asset
 
-## Under Construction!
-
-{% hint style="info" %}
-This content is coming soon! We're working diligently to create this content for our community!
-
-Are you a technical writer who'd like to make the Rawrshak Community better for everyone? Help write this page! Please reach out to <mark style="color:orange;">contact@rawrshak.io</mark>
-{% endhint %}
-
-Please refer to the [Audio Asset ](../../../../developers/in-game-asset-framework/asset-types/audio-assets.md)for specific requirements of the Image Meta Asset Framework before uploading an asset.&#x20;
+Please refer to the [Audio Asset ](../../../../developers/in-game-asset-framework/asset-types/audio-assets.md)for specific requirements of the Audio Meta Asset Framework before uploading an asset.&#x20;
 
 #### 1. Find an audio file that you want to upload.
 
@@ -63,13 +55,21 @@ The Audio Meta Asset Framework has some requirements for each type and subtype. 
 Games expect the asset to follow the framework in order for them to load it.
 {% endhint %}
 
-![Create Audio Meta Asset information](<../../../../.gitbook/assets/image (40).png>)
+To get the Duration in milliseconds, Audio Channel Count, and Sampling Rate in Hz, open a Unity project and select the audio file to view the information. Highlighted in the image below are the duration in seconds (red), audio channel count (blue), and sample rate (green).&#x20;
+
+&#x20;Note: Convert the duration to milliseconds and make sure sampling rate is in Hz.
+
+![To fill in the information of the Audio file.](<../../../../.gitbook/assets/image (24).png>)
+
+Fill in the Asset Information from the audio information above.
+
+![Create Audio Meta Asset information](<../../../../.gitbook/assets/image (40) (1).png>)
 
 #### 5. Click _Create Asset_ and wait for the Metadata to propagate
 
-![](<../../../../.gitbook/assets/image (24).png>)
+![](<../../../../.gitbook/assets/image (24) (1).png>)
 
-![](<../../../../.gitbook/assets/image (37).png>)
+![](<../../../../.gitbook/assets/image (37) (1).png>)
 
 #### 6. Wait for the transaction to process and Verify
 

@@ -2,7 +2,7 @@
 
 #### 1. Go to Inventory Page in Developer Mode
 
-![Go to the Inventory Page](<../../../.gitbook/assets/image (3) (1) (1).png>)
+![Go to the Inventory Page](<../../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 #### 2. Select the Asset to Sell
 
@@ -10,7 +10,7 @@
 
 #### 3. Click _Sell_
 
-![click the Sell button](../../../.gitbook/assets/image.png)
+![click the Sell button](<../../../.gitbook/assets/image (1).png>)
 
 #### 4. Enter the Amount to sell and the Price
 
@@ -18,11 +18,11 @@
 
 #### 5. Create and Deploy the Approval Transaction (if necessary)
 
-![Approve the NFT transfers for this smart contract and use metamask to approve transaction](<../../../.gitbook/assets/image (20) (1) (1).png>)
+![Approve the NFT transfers for this smart contract and use metamask to approve transaction](<../../../.gitbook/assets/image (20) (1) (1) (1).png>)
 
 #### 6. Click _Confirm Sell Order_ to create the sell order transaction and Deploy transaction
 
-![Click Confirm Sell Order and use metamask to approve transaction](<../../../.gitbook/assets/image (13) (1) (1).png>)
+![Click Confirm Sell Order and use metamask to approve transaction](<../../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
 #### 8. Verify Sell Order&#x20;
 

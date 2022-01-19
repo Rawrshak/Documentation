@@ -34,7 +34,7 @@ Select the default asset shape you want for this asset.
 
 In this tutorial, we'll use HorizontalZ prefab.
 
-![HorizontalZ Prefab](<../../../.gitbook/assets/image (1).png>)
+![HorizontalZ Prefab](<../../../.gitbook/assets/image (1) (1).png>)
 
 The prefabs will vary in scale and shape.&#x20;
 

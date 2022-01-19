@@ -40,15 +40,15 @@ The Image Meta Asset Framework has some requirements for each type and subtype. 
 Games expect the asset to follow the framework in order for them to load it.
 {% endhint %}
 
-![Fill in the Image information](<../../../../.gitbook/assets/image (29).png>)
+![Fill in the Image information](<../../../../.gitbook/assets/image (29) (1).png>)
 
 #### 5. Click _Create Asset_ and wait for the Metadata to propagate
 
-![](<../../../../.gitbook/assets/image (24).png>)
+![](<../../../../.gitbook/assets/image (24) (1).png>)
 
-![](<../../../../.gitbook/assets/image (37).png>)
+![](<../../../../.gitbook/assets/image (37) (1).png>)
 
 #### 6. Wait for the transaction to process and Verify
 
-![Verify asset was created.](<../../../../.gitbook/assets/image (36).png>)
+![Verify asset was created.](<../../../../.gitbook/assets/image (36) (1).png>)
 

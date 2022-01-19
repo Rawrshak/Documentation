@@ -12,11 +12,11 @@ If not, please check out the tutorial below first:
 
 Create a new empty Game Object
 
-![Created empty 'FRS' object](<../../../../.gitbook/assets/image (25) (1).png>)
+![Created empty 'FRS' object](<../../../../.gitbook/assets/image (25) (1) (1).png>)
 
 Make sure the orientation is (0,0,0), location is (0,0,0), and scale is (1,1,1)
 
-![FRS's default location, orientation, and scale](<../../../../.gitbook/assets/image (17) (1).png>)
+![FRS's default location, orientation, and scale](<../../../../.gitbook/assets/image (17) (1) (1).png>)
 
 Drag the SCI\_FRS\_13\_HD inside the FRS game object.
 
@@ -30,13 +30,13 @@ Note: These logical groupings are just as an example. As all the necessary objec
 
 Drag the "FRS" parent object into the Assets folder to create a prefab.
 
-![Drag the object to the project folder to create a prefab](<../../../../.gitbook/assets/image (24) (1) (1).png>)
+![Drag the object to the project folder to create a prefab](<../../../../.gitbook/assets/image (24) (1) (1) (1).png>)
 
 #### 4. Set the Prefab's AssetBundle
 
 In the bottom of the Inspector, set the Assetbundle name. In this case, we set it to "frs"
 
-![Set Asset Bundle name](<../../../../.gitbook/assets/image (13) (1).png>)
+![Set Asset Bundle name](<../../../../.gitbook/assets/image (13) (1) (1).png>)
 
 #### 5. Create the Asset Bundle
 
@@ -56,7 +56,7 @@ If you selected Android, iOS, and WebGL, Unity may have to install the necessary
 
 #### 6. Viewing the generated Asset Bundle
 
-![Viewing Generated Asset Bundle information](<../../../../.gitbook/assets/image (3) (1).png>)
+![Viewing Generated Asset Bundle information](<../../../../.gitbook/assets/image (3) (1) (1).png>)
 
 You can click the row of the asset bundle that was generated to view the asset bundle information on the right.
 

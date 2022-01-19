@@ -24,7 +24,7 @@ Pinata gives you 1GB free of pinning service which is more than enough for uploa
 
 In the profile button on the top right, open the dropdown menu and select _API Keys._
 
-![API Keys](<../../../.gitbook/assets/image (20) (1).png>)
+![API Keys](<../../../.gitbook/assets/image (20) (1) (1).png>)
 
 #### 3. Set the API Key Settings and click Create
 
@@ -44,6 +44,6 @@ If your API Keys become compromised, you can simply Revoke access to these keys.
 
 ![Revoking Access](<../../../.gitbook/assets/image (10).png>)
 
-![Revoke Key](<../../../.gitbook/assets/image (21) (1).png>)
+![Revoke Key](<../../../.gitbook/assets/image (21) (1) (1).png>)
 
 #### Go to the next tutorial to learn how to download and set up Unity.

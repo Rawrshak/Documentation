@@ -16,7 +16,7 @@ The wallets created in this tutorial are for testing purposes only and not used 
 
 Go to the chrome web store and search for metamask: [Link](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
-![Add Metamask to your browser](<../../.gitbook/assets/image (28).png>)
+![Add Metamask to your browser](<../../.gitbook/assets/image (28) (1).png>)
 
 #### 2. Generate an Ethereum Wallet or login with your wallet's Secret Recovery Phrase
 
@@ -26,7 +26,7 @@ In this tutorial, we will create a new wallet.
 
 #### 3. Create a Password
 
-![Create a password](<../../.gitbook/assets/image (4).png>)
+![Create a password](<../../.gitbook/assets/image (4) (1).png>)
 
 #### 4. Save Secret Phrase for recovery
 
@@ -34,4 +34,4 @@ In this tutorial, we will create a new wallet.
 
 #### 5. All Done!
 
-![Wallet Created!](<../../.gitbook/assets/image (30).png>)
+![Wallet Created!](<../../.gitbook/assets/image (30) (1).png>)

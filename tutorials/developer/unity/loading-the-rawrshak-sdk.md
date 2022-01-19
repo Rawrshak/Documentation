@@ -34,7 +34,7 @@ Rawrshak Tools releases: [https://github.com/Rawrshak/Unity-SDK/releases](https:
 
 Download the Rawrshak Unity SDK Unity Package.
 
-![](<../../../.gitbook/assets/image (27) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (27) (1) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 The Unity SDK is still in alpha and is subject to change during development. There are currently no stable releases yet. Please download the latest version for the most up to date package.
@@ -50,6 +50,6 @@ Drag and drop the package in the Unity package in the Unity Window.
 
 Select "All" and click "Import".
 
-![](<../../../.gitbook/assets/image (17) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (17) (1) (1) (1) (1).png>)
 
 #### 6. Finished!

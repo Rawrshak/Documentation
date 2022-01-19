@@ -2,11 +2,11 @@
 
 #### 1. Go to Store Page in Developer Mode
 
-![Click the Store Page](<../../../.gitbook/assets/image (25) (1) (1) (1).png>)
+![Click the Store Page](<../../../.gitbook/assets/image (25) (1) (1) (1) (1).png>)
 
 #### 2. Select the Content Smart Contract
 
-![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1) (1) (1).png>)
+![Select the Content collection to deploy the asset in](<../../../.gitbook/assets/image (20) (1) (1) (1) (1).png>)
 
 #### 3. Click "_New Asset"_
 
@@ -31,13 +31,13 @@
 
 ![Click Create Asset](<../../../.gitbook/assets/image (9) (1) (1).png>)
 
-![PMetadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (14) (1) (1).png>)
+![PMetadata json file is propagating for the Subgraph](<../../../.gitbook/assets/image (14) (1) (1) (1).png>)
 
 #### 6. Approve and Deploy Transaction
 
 Use Metamask to approve the transaction.&#x20;
 
-![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1) (1).png>)
+![Approve Deployment transaction](<../../../.gitbook/assets/image (24) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 Once you click _Create_, it takes 60 seconds for the metadata to be propagated by Pinata so that the Subgraph may read it. Please be patient.&#x20;

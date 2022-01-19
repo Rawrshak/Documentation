@@ -1,5 +1,11 @@
 # Audio Asset
 
+{% hint style="info" %}
+Packaging an audio asset is only useful if you want a more efficient file for a platform to load, but you'll need to package an asset for each platform.
+
+Instead, you can upload a RAW version of the file that any platform can use.
+{% endhint %}
+
 #### 1. Load audio into the project
 
 ![Loaded Audio File in project](<../../../../.gitbook/assets/image (19) (2).png>)
@@ -28,7 +34,7 @@ If you selected Android, iOS, and WebGL, Unity may have to install the necessary
 
 #### 4. Viewing the generated Asset Bundle
 
-![View challengeaccepted bundle information](<../../../../.gitbook/assets/image (18) (1).png>)
+![View challengeaccepted bundle information](<../../../../.gitbook/assets/image (18) (1) (1).png>)
 
 You can click the row of the asset bundle that was generated to view the asset bundle information on the right.
 
