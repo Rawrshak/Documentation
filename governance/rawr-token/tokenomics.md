@@ -54,4 +54,6 @@ A total of 100,000,000 $RAWR tokens will be minted.
 
 For more information, please refer to the $RAWR tokenomics litepaper:
 
-{% embed url="https://github.com/Rawrshak/Rawrshak-Litepaper/blob/main/RawrshakTokenomics.v.1.5.pdf" %}
+{% embed url="https://github.com/Rawrshak/Rawrshak-Litepaper/blob/main/RawrshakTokenomics.v.1.6.pdf" %}
+Tokenomics v.1.6
+{% endembed %}
